@@ -60,7 +60,7 @@ const PROTOCOL_INFO: Record<string, ProtocolInfo> = {
     id: "1inch",
     name: "1inch",
     slug: "1inch",
-    logo: "https://icons.llama.fi/1inch.jpg", // TODO: Add logo
+    logo: "/assets/protocols/1inch.png",
     category: ["DEX", "Aggregator"],
   },
   PARASWAP: {
@@ -81,14 +81,14 @@ const PROTOCOL_INFO: Record<string, ProtocolInfo> = {
     id: "uniswap-v3",
     name: "Uniswap V3",
     slug: "uniswap-v3",
-    logo: "https://icons.llama.fi/uniswap.jpg", // TODO: Add logo
+    logo: "/assets/protocols/uniswap.svg",
     category: ["DEX"],
   },
   WRAPTOKEN: {
     id: "wrap-token",
     name: "Wrap Token",
     slug: "wrap-token",
-    logo: "https://icons.llama.fi/wrap-token.jpg", // TODO: Add logo token default
+    logo: "/assets/protocols/token-default.svg",
     category: ["Token"],
   },
   OPENOCEAN: {
@@ -102,7 +102,7 @@ const PROTOCOL_INFO: Record<string, ProtocolInfo> = {
     id: "kyberswap",
     name: "KyberSwap",
     slug: "kyberswap",
-    logo: "https://icons.llama.fi/kyberswap.jpg", // TODO: Add logo
+    logo: "/assets/protocols/kyberswap.jpg",
     category: ["DEX"],
   },
   PARASWAPV6: {
@@ -130,7 +130,7 @@ const PROTOCOL_INFO: Record<string, ProtocolInfo> = {
     id: "magpie",
     name: "Magpie",
     slug: "magpie",
-    logo: "https://icons.llama.fi/magpie.jpg", // TODO: Add logo
+    logo: "/assets/protocols/magpie.jpg",
     category: ["DEX"],
   },
 };

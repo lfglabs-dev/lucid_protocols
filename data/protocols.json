@@ -3,7 +3,7 @@
     "id": "1inch",
     "name": "1inch",
     "slug": "1inch",
-    "logo": "https://icons.llama.fi/1inch.jpg",
+    "logo": "/assets/protocols/1inch.png",
     "category": [
       "DEX",
       "Aggregator"
@@ -75,8 +75,8 @@
         }
       ]
     },
-    "createdAt": 1746449668083,
-    "updatedAt": 1746449668083,
+    "createdAt": 1746453436267,
+    "updatedAt": 1746453436267,
     "excluded": false
   },
   {
@@ -130,8 +130,8 @@
         }
       ]
     },
-    "createdAt": 1746449668083,
-    "updatedAt": 1746449668083,
+    "createdAt": 1746453436267,
+    "updatedAt": 1746453436267,
     "excluded": false
   },
   {
@@ -185,8 +185,8 @@
         }
       ]
     },
-    "createdAt": 1746449668083,
-    "updatedAt": 1746449668083,
+    "createdAt": 1746453436267,
+    "updatedAt": 1746453436267,
     "excluded": false
   },
   {
@@ -265,15 +265,15 @@
         }
       ]
     },
-    "createdAt": 1746449668083,
-    "updatedAt": 1746449668083,
+    "createdAt": 1746453436267,
+    "updatedAt": 1746453436267,
     "excluded": false
   },
   {
     "id": "kyberswap",
     "name": "KyberSwap",
     "slug": "kyberswap",
-    "logo": "https://icons.llama.fi/kyberswap.jpg",
+    "logo": "/assets/protocols/kyberswap.jpg",
     "category": [
       "DEX"
     ],
@@ -339,8 +339,8 @@
         }
       ]
     },
-    "createdAt": 1746449668083,
-    "updatedAt": 1746449668083,
+    "createdAt": 1746453436267,
+    "updatedAt": 1746453436267,
     "excluded": false
   },
   {
@@ -399,8 +399,8 @@
         }
       ]
     },
-    "createdAt": 1746449668083,
-    "updatedAt": 1746449668083,
+    "createdAt": 1746453436267,
+    "updatedAt": 1746453436267,
     "excluded": false
   },
   {
@@ -469,8 +469,8 @@
         }
       ]
     },
-    "createdAt": 1746449668083,
-    "updatedAt": 1746449668083,
+    "createdAt": 1746453436267,
+    "updatedAt": 1746453436267,
     "excluded": false
   },
   {
@@ -519,15 +519,15 @@
         }
       ]
     },
-    "createdAt": 1746449668083,
-    "updatedAt": 1746449668083,
+    "createdAt": 1746453436267,
+    "updatedAt": 1746453436267,
     "excluded": false
   },
   {
     "id": "magpie",
     "name": "Magpie",
     "slug": "magpie",
-    "logo": "https://icons.llama.fi/magpie.jpg",
+    "logo": "/assets/protocols/magpie.jpg",
     "category": [
       "DEX"
     ],
@@ -588,8 +588,8 @@
         }
       ]
     },
-    "createdAt": 1746449668083,
-    "updatedAt": 1746449668083,
+    "createdAt": 1746453436267,
+    "updatedAt": 1746453436267,
     "excluded": false
   }
 ]
