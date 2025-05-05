@@ -1,0 +1,723 @@
+{
+  "protocols": [
+    {
+      "id": "1inch",
+      "name": "1inch",
+      "slug": "1inch",
+      "logo": "https://icons.llama.fi/1inch.jpg",
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ],
+        "10": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ],
+        "56": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ],
+        "100": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ],
+        "137": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ],
+        "250": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ],
+        "324": [
+          {
+            "address": "0x6fd4383cb451173d5f9304f041c7bcbf27d561ff"
+          }
+        ],
+        "8217": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ],
+        "43114": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ],
+        "59144": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ],
+        "1313161554": [
+          {
+            "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ]
+      },
+      "createdAt": 1746449668083,
+      "updatedAt": 1746449668083,
+      "excluded": false
+    },
+    {
+      "id": "paraswap",
+      "name": "ParaSwap",
+      "slug": "paraswap",
+      "logo": "https://icons.llama.fi/paraswap.jpg",
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae"
+          }
+        ],
+        "10": [
+          {
+            "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae"
+          }
+        ],
+        "56": [
+          {
+            "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae"
+          }
+        ],
+        "137": [
+          {
+            "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae"
+          }
+        ],
+        "250": [
+          {
+            "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0x93aaae79a53759cd164340e4c8766e4db5331cd7"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae"
+          }
+        ],
+        "43114": [
+          {
+            "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae"
+          }
+        ]
+      },
+      "createdAt": 1746449668083,
+      "updatedAt": 1746449668083,
+      "excluded": false
+    },
+    {
+      "id": "0x-api",
+      "name": "0x",
+      "slug": "0x-api",
+      "logo": "https://icons.llama.fi/0x-protocol.jpg",
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ],
+        "10": [
+          {
+            "address": "0xdef1abe32c034e558cdd535791643c58a13acc10"
+          }
+        ],
+        "56": [
+          {
+            "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ],
+        "137": [
+          {
+            "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ],
+        "250": [
+          {
+            "address": "0xdef189deaef76e379df891899eb5a00a94cbc250"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ],
+        "43114": [
+          {
+            "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+          }
+        ]
+      },
+      "createdAt": 1746449668083,
+      "updatedAt": 1746449668083,
+      "excluded": false
+    },
+    {
+      "id": "openocean",
+      "name": "OpenOcean",
+      "slug": "openocean",
+      "logo": "https://icons.llama.fi/openocean.jpg",
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "10": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "56": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "100": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "137": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "250": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "288": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "1088": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "5000": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "43114": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ],
+        "1313161554": [
+          {
+            "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+          }
+        ]
+      },
+      "createdAt": 1746449668083,
+      "updatedAt": 1746449668083,
+      "excluded": false
+    },
+    {
+      "id": "kyberswap",
+      "name": "KyberSwap",
+      "slug": "kyberswap",
+      "logo": "https://icons.llama.fi/kyberswap.jpg",
+      "category": [
+        "DEX"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ],
+        "10": [
+          {
+            "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ],
+        "56": [
+          {
+            "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ],
+        "137": [
+          {
+            "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ],
+        "250": [
+          {
+            "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ],
+        "324": [
+          {
+            "address": "0x3f95ef3f2eaca871858dbe20a93c01daf6c2e923"
+          }
+        ],
+        "5000": [
+          {
+            "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ],
+        "43114": [
+          {
+            "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ],
+        "59144": [
+          {
+            "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ],
+        "1313161554": [
+          {
+            "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          }
+        ]
+      },
+      "createdAt": 1746449668083,
+      "updatedAt": 1746449668083,
+      "excluded": false
+    },
+    {
+      "id": "paraswap-v6",
+      "name": "ParaSwap V6",
+      "slug": "paraswap-v6",
+      "logo": "https://icons.llama.fi/paraswap.jpg",
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x6a000f20005980200259b80c5102003040001068"
+          }
+        ],
+        "10": [
+          {
+            "address": "0x6a000f20005980200259b80c5102003040001068"
+          }
+        ],
+        "56": [
+          {
+            "address": "0x6a000f20005980200259b80c5102003040001068"
+          }
+        ],
+        "100": [
+          {
+            "address": "0x6a000f20005980200259b80c5102003040001068"
+          }
+        ],
+        "137": [
+          {
+            "address": "0x6a000f20005980200259b80c5102003040001068"
+          }
+        ],
+        "250": [
+          {
+            "address": "0x6a000f20005980200259b80c5102003040001068"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0x6a000f20005980200259b80c5102003040001068"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0x6a000f20005980200259b80c5102003040001068"
+          }
+        ],
+        "43114": [
+          {
+            "address": "0x6a000f20005980200259b80c5102003040001068"
+          }
+        ]
+      },
+      "createdAt": 1746449668083,
+      "updatedAt": 1746449668083,
+      "excluded": false
+    },
+    {
+      "id": "odos",
+      "name": "ODOS",
+      "slug": "odos",
+      "logo": "https://icons.llama.fi/odos.jpg",
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559"
+          }
+        ],
+        "10": [
+          {
+            "address": "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+          }
+        ],
+        "56": [
+          {
+            "address": "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
+          }
+        ],
+        "137": [
+          {
+            "address": "0x4e3288c9ca110bcc82bf38f09a7b425c095d92bf"
+          }
+        ],
+        "250": [
+          {
+            "address": "0xd0c22a5435f4e8e5770c1fafb5374015fc12f7cd"
+          }
+        ],
+        "324": [
+          {
+            "address": "0x4bba932e9792a2b917d47830c93a9bc79320e4f7"
+          }
+        ],
+        "5000": [
+          {
+            "address": "0xd9f4e85489adcd0baf0cd63b4231c6af58c26745"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+          }
+        ],
+        "43114": [
+          {
+            "address": "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc"
+          }
+        ],
+        "59144": [
+          {
+            "address": "0x2d8879046f1559e53eb052e949e9544bcb72f414"
+          }
+        ]
+      },
+      "createdAt": 1746449668083,
+      "updatedAt": 1746449668083,
+      "excluded": false
+    },
+    {
+      "id": "0x-api-v2",
+      "name": "0x API V2",
+      "slug": "0x-api-v2",
+      "logo": "https://icons.llama.fi/0x-protocol.jpg",
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+          }
+        ],
+        "10": [
+          {
+            "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+          }
+        ],
+        "56": [
+          {
+            "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+          }
+        ],
+        "137": [
+          {
+            "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0x0000000000001ff3684f28c67538d4d072c22734"
+          }
+        ],
+        "43114": [
+          {
+            "address": "0x0000000000005e88410ccdfade4a5efae4b49562"
+          }
+        ]
+      },
+      "createdAt": 1746449668083,
+      "updatedAt": 1746449668083,
+      "excluded": false
+    },
+    {
+      "id": "magpie",
+      "name": "Magpie",
+      "slug": "magpie",
+      "logo": "https://icons.llama.fi/magpie.jpg",
+      "category": [
+        "DEX"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x15392211222b46a0ea85a9a800830486d144848d"
+          }
+        ],
+        "10": [
+          {
+            "address": "0x15392211222b46a0ea85a9a800830486d144848d"
+          }
+        ],
+        "56": [
+          {
+            "address": "0x15392211222b46a0ea85a9a800830486d144848d"
+          }
+        ],
+        "137": [
+          {
+            "address": "0x15392211222b46a0ea85a9a800830486d144848d"
+          }
+        ],
+        "250": [
+          {
+            "address": "0x2b14763c27b9661182c2503f6c9c4d47ba747dd2"
+          }
+        ],
+        "324": [
+          {
+            "address": "0x38ae1164ca61ee7aa395bb139b3990e347988ce1"
+          }
+        ],
+        "1088": [
+          {
+            "address": "0x2b14763c27b9661182c2503f6c9c4d47ba747dd2"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0xef42f78d25f4c681dcad2597fa04877ff802ef4b"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0x34cdce58cbdc6c54f2ac808a24561d0ab18ca8be"
+          }
+        ],
+        "43114": [
+          {
+            "address": "0xf25075d95b5945bcff394588db3df8b1cacfccf6"
+          }
+        ],
+        "59144": [
+          {
+            "address": "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+          }
+        ]
+      },
+      "createdAt": 1746449668083,
+      "updatedAt": 1746449668083,
+      "excluded": false
+    }
+  ],
+  "addressMap": {
+    "1": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
+      "0xdef1c0ded9bec7f1a1670819833240f027b25eff": "0x-api",
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
+      "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
+      "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559": "odos",
+      "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
+      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie"
+    },
+    "10": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
+      "0xdef1abe32c034e558cdd535791643c58a13acc10": "0x-api",
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
+      "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
+      "0xca423977156bb05b13a2ba3b76bc5419e2fe9680": "odos",
+      "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
+      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie"
+    },
+    "56": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
+      "0xdef1c0ded9bec7f1a1670819833240f027b25eff": "0x-api",
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
+      "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
+      "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e": "odos",
+      "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
+      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie"
+    },
+    "100": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6"
+    },
+    "137": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
+      "0xdef1c0ded9bec7f1a1670819833240f027b25eff": "0x-api",
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
+      "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
+      "0x4e3288c9ca110bcc82bf38f09a7b425c095d92bf": "odos",
+      "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
+      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie"
+    },
+    "250": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
+      "0xdef189deaef76e379df891899eb5a00a94cbc250": "0x-api",
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
+      "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
+      "0xd0c22a5435f4e8e5770c1fafb5374015fc12f7cd": "odos",
+      "0x2b14763c27b9661182c2503f6c9c4d47ba747dd2": "magpie"
+    },
+    "288": {
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean"
+    },
+    "324": {
+      "0x6fd4383cb451173d5f9304f041c7bcbf27d561ff": "1inch",
+      "0x3f95ef3f2eaca871858dbe20a93c01daf6c2e923": "kyberswap",
+      "0x4bba932e9792a2b917d47830c93a9bc79320e4f7": "odos",
+      "0x38ae1164ca61ee7aa395bb139b3990e347988ce1": "magpie"
+    },
+    "1088": {
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x2b14763c27b9661182c2503f6c9c4d47ba747dd2": "magpie"
+    },
+    "5000": {
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
+      "0xd9f4e85489adcd0baf0cd63b4231c6af58c26745": "odos"
+    },
+    "8217": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch"
+    },
+    "8453": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x93aaae79a53759cd164340e4c8766e4db5331cd7": "paraswap",
+      "0xdef1c0ded9bec7f1a1670819833240f027b25eff": "0x-api",
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
+      "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
+      "0x19ceead7105607cd444f5ad10dd51356436095a1": "odos",
+      "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
+      "0xef42f78d25f4c681dcad2597fa04877ff802ef4b": "magpie"
+    },
+    "42161": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
+      "0xdef1c0ded9bec7f1a1670819833240f027b25eff": "0x-api",
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
+      "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
+      "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13": "odos",
+      "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
+      "0x34cdce58cbdc6c54f2ac808a24561d0ab18ca8be": "magpie"
+    },
+    "43114": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
+      "0xdef1c0ded9bec7f1a1670819833240f027b25eff": "0x-api",
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
+      "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
+      "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc": "odos",
+      "0x0000000000005e88410ccdfade4a5efae4b49562": "0x-api-v2",
+      "0xf25075d95b5945bcff394588db3df8b1cacfccf6": "magpie"
+    },
+    "59144": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
+      "0x2d8879046f1559e53eb052e949e9544bcb72f414": "odos",
+      "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104": "magpie"
+    },
+    "1313161554": {
+      "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
+      "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap"
+    }
+  }
+}

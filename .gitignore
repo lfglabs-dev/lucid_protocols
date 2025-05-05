@@ -8,9 +8,6 @@ yarn-error.log*
 dist/
 build/
 
-# Generated data
-data/
-
 # Cloned repositories
 defi-llama-adapters/
 
