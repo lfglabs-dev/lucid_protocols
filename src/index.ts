@@ -1,39 +1,32 @@
-import { parseProtocols } from "./scripts/parseProtocols";
-import { fetchExclusionList } from "./scripts/fetchExclusionList";
-import { buildRegistry, saveRegistry } from "./utils/buildRegistry";
+import { createProtocols } from "./scripts/fetchContracts";
+import { buildRegistry } from "./scripts/buildRegistry";
 import { Protocol, ProtocolsRegistry } from "./types";
 
 /**
- * Main function to run the entire process
- * 1. Fetch excluded protocols list
- * 2. Parse protocols directly from the submodule
- * 3. Build the registry with address mappings
- * 4. Save the registry to a file
+ * Main function to run the complete workflow - Rabby only
  */
-export async function main(): Promise<ProtocolsRegistry> {
+export async function main() {
+  console.log("=== Starting Rabby protocols workflow ===");
+
   try {
-    // Step 1: Fetch excluded protocols list
-    console.log("Step 1: Fetching excluded protocols list...");
-    await fetchExclusionList();
+    // Step 1: Fetch protocols
+    console.log("\n1. Fetching protocols...");
+    await createProtocols();
 
-    // Step 2: Parse protocols from the DefiLlama-Adapters submodule
-    console.log("Step 2: Parsing protocols from DefiLlama-Adapters repo...");
-    const protocols = await parseProtocols();
+    // Step 2: Build registry
+    console.log("\n2. Building registry...");
+    await buildRegistry();
 
-    // Step 3: Build registry
-    console.log("Step 3: Building protocol registry...");
-    const registry = buildRegistry(protocols);
-
-    // Step 4: Save registry
-    console.log("Step 4: Saving protocol registry...");
-    saveRegistry(registry);
-
-    console.log("Process completed successfully");
-    return registry;
+    console.log("\n=== Workflow completed successfully ===");
   } catch (error) {
-    console.error("Error in main process:", error);
-    throw error;
+    console.error("Error in workflow:", error);
+    process.exit(1);
   }
+}
+
+// Run if this file is executed directly
+if (require.main === module) {
+  main().catch(console.error);
 }
 
 // Utility functions for working with the registry
@@ -80,11 +73,6 @@ export const utils = {
     return registry.protocols.filter((p) => !p.excluded);
   },
 };
-
-// Run if called directly
-if (require.main === module) {
-  main().catch(console.error);
-}
 
 // Export types and main functions
 export { Protocol, ProtocolsRegistry };
