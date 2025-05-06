@@ -60,7 +60,7 @@ const PROTOCOL_INFO: Record<string, ProtocolInfo> = {
     id: "1inch",
     name: "1inch",
     slug: "1inch",
-    logo: "/assets/protocols/1inch.png",
+    logo: "/assets/1inch.png",
     category: ["DEX", "Aggregator"],
   },
   PARASWAP: {
@@ -81,14 +81,14 @@ const PROTOCOL_INFO: Record<string, ProtocolInfo> = {
     id: "uniswap-v3",
     name: "Uniswap V3",
     slug: "uniswap-v3",
-    logo: "/assets/protocols/uniswap.svg",
+    logo: "/assets/uniswap.svg",
     category: ["DEX"],
   },
   WRAPTOKEN: {
     id: "wrap-token",
     name: "Wrap Token",
     slug: "wrap-token",
-    logo: "/assets/protocols/token-default.svg",
+    logo: "/assets/token-default.svg",
     category: ["Token"],
   },
   OPENOCEAN: {
@@ -102,7 +102,7 @@ const PROTOCOL_INFO: Record<string, ProtocolInfo> = {
     id: "kyberswap",
     name: "KyberSwap",
     slug: "kyberswap",
-    logo: "/assets/protocols/kyberswap.jpg",
+    logo: "/assets/kyberswap.jpg",
     category: ["DEX"],
   },
   PARASWAPV6: {
@@ -130,7 +130,7 @@ const PROTOCOL_INFO: Record<string, ProtocolInfo> = {
     id: "magpie",
     name: "Magpie",
     slug: "magpie",
-    logo: "/assets/protocols/magpie.jpg",
+    logo: "/assets/magpie.jpg",
     category: ["DEX"],
   },
 };
