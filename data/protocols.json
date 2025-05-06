@@ -3,7 +3,7 @@
     "id": "1inch",
     "name": "1inch",
     "slug": "1inch",
-    "logo": "/assets/protocols/1inch.png",
+    "logo": "/assets/1inch.png",
     "category": [
       "DEX",
       "Aggregator"
@@ -75,8 +75,8 @@
         }
       ]
     },
-    "createdAt": 1746453436267,
-    "updatedAt": 1746453436267,
+    "createdAt": 1746531924767,
+    "updatedAt": 1746531924767,
     "excluded": false
   },
   {
@@ -130,8 +130,8 @@
         }
       ]
     },
-    "createdAt": 1746453436267,
-    "updatedAt": 1746453436267,
+    "createdAt": 1746531924767,
+    "updatedAt": 1746531924767,
     "excluded": false
   },
   {
@@ -185,8 +185,8 @@
         }
       ]
     },
-    "createdAt": 1746453436267,
-    "updatedAt": 1746453436267,
+    "createdAt": 1746531924767,
+    "updatedAt": 1746531924767,
     "excluded": false
   },
   {
@@ -265,15 +265,15 @@
         }
       ]
     },
-    "createdAt": 1746453436267,
-    "updatedAt": 1746453436267,
+    "createdAt": 1746531924767,
+    "updatedAt": 1746531924767,
     "excluded": false
   },
   {
     "id": "kyberswap",
     "name": "KyberSwap",
     "slug": "kyberswap",
-    "logo": "/assets/protocols/kyberswap.jpg",
+    "logo": "/assets/kyberswap.jpg",
     "category": [
       "DEX"
     ],
@@ -339,8 +339,8 @@
         }
       ]
     },
-    "createdAt": 1746453436267,
-    "updatedAt": 1746453436267,
+    "createdAt": 1746531924767,
+    "updatedAt": 1746531924767,
     "excluded": false
   },
   {
@@ -399,8 +399,8 @@
         }
       ]
     },
-    "createdAt": 1746453436267,
-    "updatedAt": 1746453436267,
+    "createdAt": 1746531924767,
+    "updatedAt": 1746531924767,
     "excluded": false
   },
   {
@@ -469,8 +469,8 @@
         }
       ]
     },
-    "createdAt": 1746453436267,
-    "updatedAt": 1746453436267,
+    "createdAt": 1746531924767,
+    "updatedAt": 1746531924767,
     "excluded": false
   },
   {
@@ -519,15 +519,15 @@
         }
       ]
     },
-    "createdAt": 1746453436267,
-    "updatedAt": 1746453436267,
+    "createdAt": 1746531924767,
+    "updatedAt": 1746531924767,
     "excluded": false
   },
   {
     "id": "magpie",
     "name": "Magpie",
     "slug": "magpie",
-    "logo": "/assets/protocols/magpie.jpg",
+    "logo": "/assets/magpie.jpg",
     "category": [
       "DEX"
     ],
@@ -588,8 +588,8 @@
         }
       ]
     },
-    "createdAt": 1746453436267,
-    "updatedAt": 1746453436267,
+    "createdAt": 1746531924767,
+    "updatedAt": 1746531924767,
     "excluded": false
   }
 ]
