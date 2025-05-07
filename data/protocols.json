@@ -4,7 +4,10 @@
     "name": "1inch",
     "slug": "1inch",
     "logo": "/assets/1inch.png",
-    "category": ["DEX", "Aggregator"],
+    "category": [
+      "DEX",
+      "Aggregator"
+    ],
     "contracts": {
       "1": [
         {
@@ -72,16 +75,19 @@
         }
       ]
     },
-    "createdAt": 1746531924767,
-    "updatedAt": 1746531924767,
+    "createdAt": 1746597270132,
+    "updatedAt": 1746597270132,
     "excluded": false
   },
   {
     "id": "paraswap",
     "name": "ParaSwap",
     "slug": "paraswap",
-    "logo": "https://icons.llama.fi/paraswap.jpg",
-    "category": ["DEX", "Aggregator"],
+    "logo": "/assets/paraswap.png",
+    "category": [
+      "DEX",
+      "Aggregator"
+    ],
     "contracts": {
       "1": [
         {
@@ -124,8 +130,8 @@
         }
       ]
     },
-    "createdAt": 1746531924767,
-    "updatedAt": 1746531924767,
+    "createdAt": 1746597270132,
+    "updatedAt": 1746597270132,
     "excluded": false
   },
   {
@@ -133,7 +139,10 @@
     "name": "0x",
     "slug": "0x-api",
     "logo": "https://icons.llama.fi/0x-protocol.jpg",
-    "category": ["DEX", "Aggregator"],
+    "category": [
+      "DEX",
+      "Aggregator"
+    ],
     "contracts": {
       "1": [
         {
@@ -176,8 +185,8 @@
         }
       ]
     },
-    "createdAt": 1746531924767,
-    "updatedAt": 1746531924767,
+    "createdAt": 1746597270132,
+    "updatedAt": 1746597270132,
     "excluded": false
   },
   {
@@ -185,7 +194,10 @@
     "name": "OpenOcean",
     "slug": "openocean",
     "logo": "https://icons.llama.fi/openocean.jpg",
-    "category": ["DEX", "Aggregator"],
+    "category": [
+      "DEX",
+      "Aggregator"
+    ],
     "contracts": {
       "1": [
         {
@@ -253,8 +265,8 @@
         }
       ]
     },
-    "createdAt": 1746531924767,
-    "updatedAt": 1746531924767,
+    "createdAt": 1746597270132,
+    "updatedAt": 1746597270132,
     "excluded": false
   },
   {
@@ -262,7 +274,9 @@
     "name": "KyberSwap",
     "slug": "kyberswap",
     "logo": "/assets/kyberswap.jpg",
-    "category": ["DEX"],
+    "category": [
+      "DEX"
+    ],
     "contracts": {
       "1": [
         {
@@ -325,8 +339,8 @@
         }
       ]
     },
-    "createdAt": 1746531924767,
-    "updatedAt": 1746531924767,
+    "createdAt": 1746597270132,
+    "updatedAt": 1746597270132,
     "excluded": false
   },
   {
@@ -334,7 +348,10 @@
     "name": "ParaSwap V6",
     "slug": "paraswap-v6",
     "logo": "https://icons.llama.fi/paraswap.jpg",
-    "category": ["DEX", "Aggregator"],
+    "category": [
+      "DEX",
+      "Aggregator"
+    ],
     "contracts": {
       "1": [
         {
@@ -382,8 +399,8 @@
         }
       ]
     },
-    "createdAt": 1746531924767,
-    "updatedAt": 1746531924767,
+    "createdAt": 1746597270132,
+    "updatedAt": 1746597270132,
     "excluded": false
   },
   {
@@ -391,7 +408,10 @@
     "name": "ODOS",
     "slug": "odos",
     "logo": "https://icons.llama.fi/odos.jpg",
-    "category": ["DEX", "Aggregator"],
+    "category": [
+      "DEX",
+      "Aggregator"
+    ],
     "contracts": {
       "1": [
         {
@@ -449,8 +469,8 @@
         }
       ]
     },
-    "createdAt": 1746531924767,
-    "updatedAt": 1746531924767,
+    "createdAt": 1746597270132,
+    "updatedAt": 1746597270132,
     "excluded": false
   },
   {
@@ -458,7 +478,10 @@
     "name": "0x API V2",
     "slug": "0x-api-v2",
     "logo": "https://icons.llama.fi/0x-protocol.jpg",
-    "category": ["DEX", "Aggregator"],
+    "category": [
+      "DEX",
+      "Aggregator"
+    ],
     "contracts": {
       "1": [
         {
@@ -496,8 +519,8 @@
         }
       ]
     },
-    "createdAt": 1746531924767,
-    "updatedAt": 1746531924767,
+    "createdAt": 1746597270132,
+    "updatedAt": 1746597270132,
     "excluded": false
   },
   {
@@ -505,7 +528,9 @@
     "name": "Magpie",
     "slug": "magpie",
     "logo": "/assets/magpie.jpg",
-    "category": ["DEX"],
+    "category": [
+      "DEX"
+    ],
     "contracts": {
       "1": [
         {
@@ -563,8 +588,8 @@
         }
       ]
     },
-    "createdAt": 1746531924767,
-    "updatedAt": 1746531924767,
+    "createdAt": 1746597270132,
+    "updatedAt": 1746597270132,
     "excluded": false
   }
 ]

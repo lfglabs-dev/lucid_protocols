@@ -1,6 +1,6 @@
 # Lucid Protocols
 
-A TypeScript repository providing a structured database of DeFi protocols with their contract addresses, metadata, and other relevant information. This repository now focuses specifically on Rabby Swap contract addresses.
+A TypeScript repository providing a structured database of DeFi protocols with their contract addresses, metadata, and other relevant information. This repository focuses on Rabby Swap contract addresses and includes the ERC-7730 Clear Signing Metadata Registry for improved transaction transparency.
 
 ## Project Structure
 
@@ -10,6 +10,7 @@ src/
 ├── utils/        # Utility functions
 └── scripts/      # Scripts for protocol parsing and registry building
 data/             # Generated protocols data
+clear-signing-erc7730-registry/ # ERC-7730 metadata registry submodule
 ```
 
 ## Usage
@@ -18,6 +19,7 @@ This repository can be used to:
 - Look up protocol information by contract address
 - Find DEX protocol metadata (name, logo, etc.)
 - Filter protocols by categories or chains
+- Access ERC-7730 Clear Signing metadata for supported protocols
 
 ## How It Works
 
@@ -26,18 +28,22 @@ The repository uses a simplified approach:
 1. Fetches contract addresses from the Rabby Swap repository (`fetchContracts.ts`)
 2. Constructs a registry mapping contracts to protocols (`buildRegistry.ts`)
 3. Provides utility functions for looking up protocols by address
+4. Integrates with ERC-7730 registry for clear signing metadata
 
 ## Development
 
 ### Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/lucid_protocols.git
+# Clone the repository with submodules
+git clone --recurse-submodules https://github.com/yourusername/lucid_protocols.git
 cd lucid_protocols
 
 # Install dependencies
 npm install
+
+# If you've already cloned without submodules, run:
+git submodule update --init --recursive
 ```
 
 ### Building and Running
@@ -93,18 +99,34 @@ interface ProtocolsRegistry {
 ## Supported Protocols
 
 This repository currently includes contract addresses for the following protocols:
+- 0x
 - 1inch
-- ParaSwap
-- 0x API
-- Uniswap V3
-- Wrap Token
-- OpenOcean
+- Aave
+- Aerodrome
+- Cowswap
+- Degate
+- Ethena
+- Kiln
+- Lens
+- Lido
+- Lombard
 - KyberSwap
-- ParaSwap V6
-- ODOS
-- 0x API V2
 - Magpie
+- MarkerDAO
+- Morpho
+- ODOS
+- OpenSea
+- ParaSwap
+- Quickswap
+- Uniswap
+- OpenOcean
+- Sky
+
 
 ## Data Sources
 
+### Contract Addresses
 This repository uses contract addresses from [Rabby Swap](https://github.com/RabbyHub/rabby-swap), focusing on DEX protocols and aggregators across multiple chains.
+
+### Clear Signing Metadata
+For clear signing support, we use the [ERC-7730 Clear Signing Metadata Registry](https://github.com/LedgerHQ/clear-signing-erc7730-registry), which provides human-readable metadata for smart contract interactions.

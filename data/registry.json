@@ -5,21 +5,45 @@
       "name": "1inch",
       "slug": "1inch",
       "logo": "/assets/1inch.png",
-      "category": ["DEX", "Aggregator"],
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
       "contracts": {
         "1": [
           {
             "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          },
+          {
+            "address": "0x11111112542d85b3ef69ae05771c2dccff4faa26"
+          },
+          {
+            "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
+          },
+          {
+            "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
           }
         ],
         "10": [
           {
             "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          },
+          {
+            "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
           }
         ],
         "56": [
           {
             "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          },
+          {
+            "address": "0x11111112542d85b3ef69ae05771c2dccff4faa26"
+          },
+          {
+            "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
+          },
+          {
+            "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
           }
         ],
         "100": [
@@ -30,6 +54,15 @@
         "137": [
           {
             "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          },
+          {
+            "address": "0x11111112542d85b3ef69ae05771c2dccff4faa26"
+          },
+          {
+            "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
+          },
+          {
+            "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
           }
         ],
         "250": [
@@ -55,6 +88,9 @@
         "42161": [
           {
             "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+          },
+          {
+            "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
           }
         ],
         "43114": [
@@ -73,20 +109,26 @@
           }
         ]
       },
-      "createdAt": 1746531924767,
-      "updatedAt": 1746531924767,
+      "createdAt": 1746597270132,
+      "updatedAt": 1746597270132,
       "excluded": false
     },
     {
       "id": "paraswap",
       "name": "ParaSwap",
       "slug": "paraswap",
-      "logo": "https://icons.llama.fi/paraswap.jpg",
-      "category": ["DEX", "Aggregator"],
+      "logo": "/assets/paraswap.png",
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
       "contracts": {
         "1": [
           {
             "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae"
+          },
+          {
+            "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
           }
         ],
         "10": [
@@ -97,11 +139,17 @@
         "56": [
           {
             "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae"
+          },
+          {
+            "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
           }
         ],
         "137": [
           {
             "address": "0x216b4b4ba9f3e719726886d34a177484278bfcae"
+          },
+          {
+            "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
           }
         ],
         "250": [
@@ -125,8 +173,8 @@
           }
         ]
       },
-      "createdAt": 1746531924767,
-      "updatedAt": 1746531924767,
+      "createdAt": 1746597270132,
+      "updatedAt": 1746597270132,
       "excluded": false
     },
     {
@@ -134,7 +182,10 @@
       "name": "0x",
       "slug": "0x-api",
       "logo": "https://icons.llama.fi/0x-protocol.jpg",
-      "category": ["DEX", "Aggregator"],
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
       "contracts": {
         "1": [
           {
@@ -177,8 +228,8 @@
           }
         ]
       },
-      "createdAt": 1746531924767,
-      "updatedAt": 1746531924767,
+      "createdAt": 1746597270132,
+      "updatedAt": 1746597270132,
       "excluded": false
     },
     {
@@ -186,7 +237,10 @@
       "name": "OpenOcean",
       "slug": "openocean",
       "logo": "https://icons.llama.fi/openocean.jpg",
-      "category": ["DEX", "Aggregator"],
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
       "contracts": {
         "1": [
           {
@@ -254,8 +308,8 @@
           }
         ]
       },
-      "createdAt": 1746531924767,
-      "updatedAt": 1746531924767,
+      "createdAt": 1746597270132,
+      "updatedAt": 1746597270132,
       "excluded": false
     },
     {
@@ -263,7 +317,9 @@
       "name": "KyberSwap",
       "slug": "kyberswap",
       "logo": "/assets/kyberswap.jpg",
-      "category": ["DEX"],
+      "category": [
+        "DEX"
+      ],
       "contracts": {
         "1": [
           {
@@ -326,8 +382,8 @@
           }
         ]
       },
-      "createdAt": 1746531924767,
-      "updatedAt": 1746531924767,
+      "createdAt": 1746597270132,
+      "updatedAt": 1746597270132,
       "excluded": false
     },
     {
@@ -335,7 +391,10 @@
       "name": "ParaSwap V6",
       "slug": "paraswap-v6",
       "logo": "https://icons.llama.fi/paraswap.jpg",
-      "category": ["DEX", "Aggregator"],
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
       "contracts": {
         "1": [
           {
@@ -383,8 +442,8 @@
           }
         ]
       },
-      "createdAt": 1746531924767,
-      "updatedAt": 1746531924767,
+      "createdAt": 1746597270132,
+      "updatedAt": 1746597270132,
       "excluded": false
     },
     {
@@ -392,7 +451,10 @@
       "name": "ODOS",
       "slug": "odos",
       "logo": "https://icons.llama.fi/odos.jpg",
-      "category": ["DEX", "Aggregator"],
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
       "contracts": {
         "1": [
           {
@@ -450,8 +512,8 @@
           }
         ]
       },
-      "createdAt": 1746531924767,
-      "updatedAt": 1746531924767,
+      "createdAt": 1746597270132,
+      "updatedAt": 1746597270132,
       "excluded": false
     },
     {
@@ -459,7 +521,10 @@
       "name": "0x API V2",
       "slug": "0x-api-v2",
       "logo": "https://icons.llama.fi/0x-protocol.jpg",
-      "category": ["DEX", "Aggregator"],
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
       "contracts": {
         "1": [
           {
@@ -497,8 +562,8 @@
           }
         ]
       },
-      "createdAt": 1746531924767,
-      "updatedAt": 1746531924767,
+      "createdAt": 1746597270132,
+      "updatedAt": 1746597270132,
       "excluded": false
     },
     {
@@ -506,7 +571,9 @@
       "name": "Magpie",
       "slug": "magpie",
       "logo": "/assets/magpie.jpg",
-      "category": ["DEX"],
+      "category": [
+        "DEX"
+      ],
       "contracts": {
         "1": [
           {
@@ -564,25 +631,925 @@
           }
         ]
       },
-      "createdAt": 1746531924767,
-      "updatedAt": 1746531924767,
+      "createdAt": 1746597270132,
+      "updatedAt": 1746597270132,
+      "excluded": false
+    },
+    {
+      "id": "aave",
+      "name": "Aave",
+      "slug": "aave",
+      "logo": "/assets/aave.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x7d2768de32b0b80b7a3454c06bdac94a69ddc7a9"
+          },
+          {
+            "address": "0x87870bca3f3fd6335c3f4ce8392d69350b4fa4e2"
+          }
+        ]
+      },
+      "createdAt": 1746597270135,
+      "updatedAt": 1746597270135,
+      "excluded": false
+    },
+    {
+      "id": "fellow-fund",
+      "name": "Fellow-fund",
+      "slug": "fellow-fund",
+      "logo": "/assets/fellow-fund.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x25d598cbb74fa73290e74697616de2740d280745"
+          }
+        ]
+      },
+      "createdAt": 1746597270136,
+      "updatedAt": 1746597270136,
+      "excluded": false
+    },
+    {
+      "id": "kiln",
+      "name": "Kiln",
+      "slug": "kiln",
+      "logo": "/assets/kiln.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "42161": [
+          {
+            "address": "0xff131917e1d6751e4d1b17612751db521b1403c5"
+          }
+        ]
+      },
+      "createdAt": 1746597270136,
+      "updatedAt": 1746597270136,
+      "excluded": false
+    },
+    {
+      "id": "lido",
+      "name": "Lido",
+      "slug": "lido",
+      "logo": "/assets/lido.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x889edc2edab5f40e902b864ad4d7ade8e412f9b1"
+          },
+          {
+            "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+          },
+          {
+            "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+          }
+        ]
+      },
+      "createdAt": 1746597270138,
+      "updatedAt": 1746597270138,
+      "excluded": false
+    },
+    {
+      "id": "lombard",
+      "name": "Lombard",
+      "slug": "lombard",
+      "logo": "/assets/lombard.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x8236a87084f8b84306f72007f36f2618a5634494"
+          }
+        ],
+        "17000": [
+          {
+            "address": "0xed7bfd5c1790576105af4649817f6d35a75cd818"
+          }
+        ]
+      },
+      "createdAt": 1746597270138,
+      "updatedAt": 1746597270138,
+      "excluded": false
+    },
+    {
+      "id": "morpho",
+      "name": "Morpho",
+      "slug": "morpho",
+      "logo": "/assets/morpho.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x1e2aaadcf528b9cc08f43d4fd7db488ce89f5741"
+          },
+          {
+            "address": "0xd5ac156319f2491d4ad1ec4aa5ed0ed48c0fa173"
+          },
+          {
+            "address": "0x00b6f2c15e4439749f192d10c70f65354848cf4b"
+          },
+          {
+            "address": "0xbbbbbbbbbb9cc5e90e3b3af64bdaf62c37eeffcb"
+          },
+          {
+            "address": "0x45c1875f1c48622b3d9740af2d7dc62bc9a72422"
+          },
+          {
+            "address": "0x0f359fd18bda75e9c49bc027e7da59a4b01bf32a"
+          },
+          {
+            "address": "0xb9c9158ab81f90996cad891ffbadfbaad733c8c6"
+          },
+          {
+            "address": "0x38989bba00bdf8181f4082995b3deae96163ac5d"
+          },
+          {
+            "address": "0x186514400e52270cef3d80e1c6f8d10a75d47344"
+          },
+          {
+            "address": "0x2c25f6c25770ffec5959d34b94bf898865e5d6b1"
+          },
+          {
+            "address": "0xc21db71648b18c5b9e038d88393c9b254cf8eac8"
+          },
+          {
+            "address": "0x0404fd1a77756eb029f06b5cdea88b2b2ddc2fee"
+          },
+          {
+            "address": "0x1b4cd53a1a8e5f50ab6320ef34e5fb4d3df7b6f6"
+          },
+          {
+            "address": "0x500331c9ff24d9d11aee6b07734aa72343ea74a5"
+          },
+          {
+            "address": "0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658"
+          },
+          {
+            "address": "0x125d41a6e5dbf455cd9df8f80bcc6fd172d52cc6"
+          },
+          {
+            "address": "0xdd0f28e19c1780eb6396170735d45153d261490d"
+          },
+          {
+            "address": "0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458"
+          },
+          {
+            "address": "0xebfa750279defa89b8d99bdd145a016f6292757b"
+          },
+          {
+            "address": "0x8cb3649114051ca5119141a34c200d65dc0faa73"
+          },
+          {
+            "address": "0x443df5eee3196e9b2dd77cabd3ea76c3dee8f9b2"
+          },
+          {
+            "address": "0x2371e134e3455e0593363cbf89d3b6cf53740618"
+          },
+          {
+            "address": "0x1e6ffa4e9f63d10b8820a3ab52566af881dab53c"
+          },
+          {
+            "address": "0xf587f2e8aff7d76618d3b6b4626621860fbd54e3"
+          },
+          {
+            "address": "0xc080f56504e0278828a403269db945f6c6d6e014"
+          },
+          {
+            "address": "0x78b18e07dc43017fceaabad0751d6464c0f56b25"
+          },
+          {
+            "address": "0x6859b34a9379122d25a9fa46f0882d434fee36c3"
+          },
+          {
+            "address": "0xc582f04d8a82795aa2ff9c8bb4c1c889fe7b754e"
+          },
+          {
+            "address": "0x701907283a57ff77e255c3f1aad790466b8ce4ef"
+          },
+          {
+            "address": "0xa8875aaebc4f830524e35d57f9772ffacbdd6c45"
+          },
+          {
+            "address": "0xdbb316375b4dc992b2c8827d120c09dfb1d3455d"
+          },
+          {
+            "address": "0x132e6c9c33a62d7727cd359b1f51e5b566e485eb"
+          },
+          {
+            "address": "0x4ff4186188f8406917293a9e01a1ca16d3cf9e59"
+          },
+          {
+            "address": "0x059fc6723b9bf77dbf4283c8d7c90ea8af44ef10"
+          },
+          {
+            "address": "0x974c8fbf4fd795f66b85b73ebc988a51f1a040a9"
+          },
+          {
+            "address": "0x4ca0e178c94f039d7f202e09d8d1a655ed3fb6b6"
+          },
+          {
+            "address": "0x67315dd969b8cd3a3520c245837bf71f54579c75"
+          },
+          {
+            "address": "0xd50da5f859811a91fd1876c9461fd39c23c747ad"
+          },
+          {
+            "address": "0x1265a81d42d513df40d0031f8f2e1346954d665a"
+          },
+          {
+            "address": "0x749794e985af5a9a384b9cee6d88dab4ce1576a1"
+          },
+          {
+            "address": "0x98cf0b67da0f16e1f8f1a1d23ad8dc64c0c70e0b"
+          },
+          {
+            "address": "0x1c530d6de70c05a81bf1670157b9d928e9699089"
+          },
+          {
+            "address": "0x9a8bc3b04b7f3d87cfc09ba407dced575f2d61d8"
+          },
+          {
+            "address": "0xd63070114470f685b75b74d60eec7c1113d33a3d"
+          },
+          {
+            "address": "0x2f1abb81ed86be95bcf8178ba62c8e72d6834775"
+          },
+          {
+            "address": "0xbe40491f3261fd42724f1aeb465796eb11c06ddf"
+          },
+          {
+            "address": "0x89d80f5e9bc88d8021b352064ae73f0eaf79ebd8"
+          },
+          {
+            "address": "0x60d715515d4411f7f43e4206dc5d4a3677f0ec78"
+          },
+          {
+            "address": "0x95eef579155cd2c5510f312c8fa39208c3be01a8"
+          },
+          {
+            "address": "0xe0c98605f279e4d7946d25b75869c69802823763"
+          },
+          {
+            "address": "0xa02f5e93f783baf150aa1f8b341ae90fe0a772f7"
+          },
+          {
+            "address": "0xe87ed29896b91421ff43f69257abf78300e40c7a"
+          },
+          {
+            "address": "0x4f460bb11cf958606c69a963b4a17f9daeeea8b6"
+          },
+          {
+            "address": "0x73e65dbd630f90604062f6e02fab9138e713edd9"
+          },
+          {
+            "address": "0xbeefff68cc520d68f82641eff84330c631e2490e"
+          },
+          {
+            "address": "0xbeefff209270748ddd194831b3fa287a5386f5bc"
+          },
+          {
+            "address": "0xa0804346780b4c2e3be118ac957d1db82f9d7484"
+          },
+          {
+            "address": "0x833adaef212c5cd3f78906b44bbfb18258f238f0"
+          },
+          {
+            "address": "0x7204b7dbf9412567835633b6f00c3edc3a8d6330"
+          },
+          {
+            "address": "0xbeefc01767ed5086f35decb6c00e6c12bc7476c1"
+          },
+          {
+            "address": "0xbeef7959ae71d4e45e1863dae0b94c35244af816"
+          },
+          {
+            "address": "0xbeef02e5e13584ab96848af90261f0c8ee04722a"
+          },
+          {
+            "address": "0xbeef11ecb698f4b5378685c05a210bdf71093521"
+          },
+          {
+            "address": "0xa1b60d96e5c50da627095b9381dc5a46af1a9a42"
+          },
+          {
+            "address": "0x30881baa943777f92dc934d53d3bfdf33382cab3"
+          },
+          {
+            "address": "0xbeef047a543e45807105e51a8bbefcc5950fcfba"
+          },
+          {
+            "address": "0x097ffedb80d4b2ca6105a07a4d90eb739c45a666"
+          },
+          {
+            "address": "0xbeef094333aedd535c130958c204e84f681fd9fa"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0xf540d790413fcfaedac93518ae99eddace82cb78"
+          },
+          {
+            "address": "0x5496b42ad0decebfab0db944d83260e60d54f667"
+          },
+          {
+            "address": "0xbbbbbbbbbb9cc5e90e3b3af64bdaf62c37eeffcb"
+          },
+          {
+            "address": "0xcddcdd18a16ed441f6cb10c3909e5e7ec2b9e8f3"
+          },
+          {
+            "address": "0xc484d83f667b779cc9907248101214235642258b"
+          },
+          {
+            "address": "0x70f796946ed919e4bc6cd506f8dacc45e4539771"
+          },
+          {
+            "address": "0xa0e430870c4604ccfc7b38ca7845b1ff653d0ff1"
+          },
+          {
+            "address": "0xf24608e0ccb972b0b0f4a6446a0bbf58c701a026"
+          },
+          {
+            "address": "0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca"
+          },
+          {
+            "address": "0x543257ef2161176d7c8cd90ba65c2d4caef5a796"
+          },
+          {
+            "address": "0x1c155be6bc51f2c37d472d4c2eba7a637806e122"
+          },
+          {
+            "address": "0x0d05e6ec0a10f9ffe9229eaa785c11606a1d13fb"
+          },
+          {
+            "address": "0xc0c5689e6f4d256e861f65465b691aeecc0deb12"
+          },
+          {
+            "address": "0xee8f4ec5672f09119b96ab6fb59c27e1b7e44b61"
+          },
+          {
+            "address": "0x6b13c060f13af1fdb319f52315bbbf3fb1d88844"
+          },
+          {
+            "address": "0xcd347c1e7d600a9a3e403497562edd0a7bc3ef21"
+          },
+          {
+            "address": "0x9ab2d181e4b87ba57d5ed564d3ef652c4e710707"
+          },
+          {
+            "address": "0x616a4e1db48e22028f6bbf20444cd3b8e3273738"
+          },
+          {
+            "address": "0x27d8c7273fd3fcc6956a0b370ce5fd4a7fc65c18"
+          },
+          {
+            "address": "0x5a47c803488fe2bb0a0eaaf346b420e4df22f3c7"
+          },
+          {
+            "address": "0x6e37c95b43566e538d8c278eb69b00fc717a001b"
+          },
+          {
+            "address": "0xa2cac0023a4797b4729db94783405189a4203afc"
+          },
+          {
+            "address": "0x74b6ea9bfee07c3756969b0139cfacbba5845969"
+          },
+          {
+            "address": "0xdb90a4e973b7663ce0ccc32b6fbd37ffb19bfa83"
+          },
+          {
+            "address": "0x8c3a6b12332a6354805eb4b72ef619aedd22bcdd"
+          },
+          {
+            "address": "0x30b8a2c8e7fa41e77b54b8faf45c610e7ad909e3"
+          },
+          {
+            "address": "0xbb819d845b573b5d7c538f5b85057160cfb5f313"
+          },
+          {
+            "address": "0x80d9964feb4a507dd697b4437fc5b25b618ce446"
+          },
+          {
+            "address": "0x0fabfeacedf47e890c50c8120177fff69c6a1d9b"
+          },
+          {
+            "address": "0xb7890cee6cf4792cdcc13489d36d9d42726ab863"
+          },
+          {
+            "address": "0x7bfa7c4f149e7415b73bdedfe609237e29cbf34a"
+          },
+          {
+            "address": "0xbeef050a7485865a7a8d8ca0cc5f7536b7a3443e"
+          },
+          {
+            "address": "0xbeefa28d5e56d41d35df760ab53b94d9ffd7051f"
+          },
+          {
+            "address": "0xbeef086b8807dc5e5a1740c5e3a7c4c366ea6ab5"
+          },
+          {
+            "address": "0xb17b070a56043e1a5a1ab7443afafdebcc1168d7"
+          },
+          {
+            "address": "0xbeefa1abfebe621df50ceaef9f54fdb73648c92c"
+          },
+          {
+            "address": "0xbeef010f9cb27031ad51e3333f9af9c6b1228183"
+          },
+          {
+            "address": "0xbeefc4adbe58173fca2c042097fe33095e68c3d6"
+          },
+          {
+            "address": "0xbeef03f0bf3cb2e348393008a826538aadd7d183"
+          }
+        ]
+      },
+      "createdAt": 1746597270138,
+      "updatedAt": 1746597270138,
+      "excluded": false
+    },
+    {
+      "id": "poap",
+      "name": "Poap",
+      "slug": "poap",
+      "logo": "/assets/poap.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x0bb4d3e88243f4a057db77341e6916b0e449b158"
+          }
+        ]
+      },
+      "createdAt": 1746597270148,
+      "updatedAt": 1746597270148,
+      "excluded": false
+    },
+    {
+      "id": "quickswap",
+      "name": "Quickswap",
+      "slug": "quickswap",
+      "logo": "/assets/quickswap.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "137": [
+          {
+            "address": "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff"
+          }
+        ]
+      },
+      "createdAt": 1746597270148,
+      "updatedAt": 1746597270148,
+      "excluded": false
+    },
+    {
+      "id": "starkgate",
+      "name": "Starkgate",
+      "slug": "starkgate",
+      "logo": "/assets/starkgate.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0xce5485cfb26914c5dce00b9baf0580364dafc7a4"
+          }
+        ]
+      },
+      "createdAt": 1746597270149,
+      "updatedAt": 1746597270149,
+      "excluded": false
+    },
+    {
+      "id": "tether",
+      "name": "Tether",
+      "slug": "tether",
+      "logo": "/assets/tether.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+          }
+        ]
+      },
+      "createdAt": 1746597270149,
+      "updatedAt": 1746597270149,
+      "excluded": false
+    },
+    {
+      "id": "uniswap",
+      "name": "Uniswap",
+      "slug": "uniswap",
+      "logo": "/assets/uniswap.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+          }
+        ]
+      },
+      "createdAt": 1746597270150,
+      "updatedAt": 1746597270150,
+      "excluded": false
+    },
+    {
+      "id": "walletconnect",
+      "name": "Walletconnect",
+      "slug": "walletconnect",
+      "logo": "/assets/walletconnect.png",
+      "category": [
+        "DeFi"
+      ],
+      "contracts": {
+        "10": [
+          {
+            "address": "0x521b4c065bbdbe3e20b3727340730936912dfa46"
+          },
+          {
+            "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945"
+          }
+        ]
+      },
+      "createdAt": 1746597270150,
+      "updatedAt": 1746597270150,
+      "excluded": false
+    },
+    {
+      "id": "cowswap",
+      "name": "CowSwap",
+      "slug": "cowswap",
+      "logo": "/assets/cowswap.png",
+      "category": [
+        "DEX",
+        "Aggregator"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x9008D19f58AAbD9eD0D60971565AA8510560ab41"
+          }
+        ],
+        "100": [
+          {
+            "address": "0x9008D19f58AAbD9eD0D60971565AA8510560ab41"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0x9008D19f58AAbD9eD0D60971565AA8510560ab41"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0x9008D19f58AAbD9eD0D60971565AA8510560ab41"
+          }
+        ]
+      },
+      "createdAt": 1746597270078,
+      "updatedAt": 1746597270078,
+      "excluded": false
+    },
+    {
+      "id": "sky",
+      "name": "Sky",
+      "slug": "sky",
+      "logo": "/assets/sky.png",
+      "category": [
+        "DEX"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F"
+          },
+          {
+            "address": "0x1923DfeE706A8E78157416C29cBCCFDe7cdF4102"
+          },
+          {
+            "address": "0x3C0f895007CA717Aa01c8693e59DF1e8C3777FEB"
+          },
+          {
+            "address": "0x3225737a9Bbb6473CB4a45b7244ACa2BeFdB276A"
+          },
+          {
+            "address": "0xA188EEC8F81263234dA3622A406892F3D630f98c"
+          },
+          {
+            "address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+          },
+          {
+            "address": "0x9759a6ac90977b93b58547b4a71c78317f391a28"
+          },
+          {
+            "address": "0xf6e72db5454dd049d0788e411b06cfaf16853042"
+          },
+          {
+            "address": "0x56072C95FAA701256059aa122697B133aDEd9279"
+          },
+          {
+            "address": "0xBDcFCA946b6CDd965f99a839e4435Bcdc1bc470B"
+          },
+          {
+            "address": "0x2621CC0B3F3c079c1Db0E80794AA24976F0b9e3c"
+          },
+          {
+            "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+          }
+        ]
+      },
+      "createdAt": 1746597270078,
+      "updatedAt": 1746597270078,
+      "excluded": false
+    },
+    {
+      "id": "ethena",
+      "name": "Ethena",
+      "slug": "ethena",
+      "logo": "/assets/ethena.png",
+      "category": [
+        "Lending"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x2cc440b721d2cafd6d64908d6d8c4acc57f8afc3"
+          },
+          {
+            "address": "0xe3490297a08d6fC8Da46Edb7B6142E4F461b62D3"
+          },
+          {
+            "address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497"
+          },
+          {
+            "address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3"
+          },
+          {
+            "address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497"
+          },
+          {
+            "address": "0xf2fa332bd83149c66b09b45670bce64746c6b439"
+          },
+          {
+            "address": "0x57e114B691Db790C35207b2e685D4A43181e6061"
+          },
+          {
+            "address": "0x8bE3460A480c80728a8C4D7a5D5303c85ba7B3b9"
+          },
+          {
+            "address": "0xc65433845ecd16688eda196497fa9130d6c47bd8"
+          }
+        ]
+      },
+      "createdAt": 1746597270078,
+      "updatedAt": 1746597270078,
+      "excluded": false
+    },
+    {
+      "id": "aerodrome",
+      "name": "Aerodrome",
+      "slug": "aerodrome",
+      "logo": "/assets/aerodrome.png",
+      "category": [
+        "DEX"
+      ],
+      "contracts": {
+        "8453": [
+          {
+            "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+          },
+          {
+            "address": "0xE4c69af018B2EA9e575026c0472B6531A2bC382F"
+          },
+          {
+            "address": "0xE9992487b2EE03b7a91241695A58E0ef3654643E"
+          },
+          {
+            "address": "0x5C3F18F06CC09CA1910767A34a20F771039E37C0"
+          },
+          {
+            "address": "0x15e62707FCA7352fbE35F51a8D6b0F8066A05DCc"
+          },
+          {
+            "address": "0x35f35cA5B132CaDf2916BaB57639128eAC5bbcb5"
+          },
+          {
+            "address": "0xFdA1fb5A2a5B23638C7017950506a36dcFD2bDC3"
+          },
+          {
+            "address": "0xeB018363F0a9Af8f91F06FEe6613a751b2A33FE5"
+          },
+          {
+            "address": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+          },
+          {
+            "address": "0x227f65131A261548b057215bB1D5Ab2997964C7d"
+          },
+          {
+            "address": "0xcF77a3Ba9A5CA399B7c97c74d54e5b1Beb874E43"
+          },
+          {
+            "address": "0x16613524e02ad97eDfeF371bC883F2F5d6C480A5"
+          },
+          {
+            "address": "0xeBf418Fe2512e7E6bd9b87a8F0f294aCDC67e6B4"
+          },
+          {
+            "address": "0x45cA74858C579E717ee29A86042E0d53B252B504"
+          },
+          {
+            "address": "0xD30677bd8dd15132F251Cb54CbDA552d2A05Fb08"
+          },
+          {
+            "address": "0xF5601F95708256A118EF5971820327F362442D2d"
+          },
+          {
+            "address": "0x0A5aA5D3a4d28014f967Bf0f29EAA3FF9807D5c6"
+          },
+          {
+            "address": "0x827922686190790b37229fd06084350E74485b72"
+          },
+          {
+            "address": "0x01b0CaCB9A8004e08D075c919B5dF3b59FD53c55"
+          },
+          {
+            "address": "0x5e7BB104d84c7CB9B682AaC2F3d509f5F406809A"
+          },
+          {
+            "address": "0xeC8E5342B19977B4eF8892e02D8DAEcfa1315831"
+          },
+          {
+            "address": "0x254cF9E1E6e233aa1AC962CB9B05b2cfeAaE15b0"
+          },
+          {
+            "address": "0xF4171B0953b52Fa55462E4d76ecA1845Db69af00"
+          },
+          {
+            "address": "0x0AD08370c76Ff426F534bb2AFFD9b5555338ee68"
+          },
+          {
+            "address": "0x6Cb442acF35158D5eDa88fe602221b67B400Be3E"
+          },
+          {
+            "address": "0xBE6D8f0d05cC4be24d5167a3eF062215bE6D18a5"
+          },
+          {
+            "address": "0xee717411f6E44F9feE011835C8E6FAaC5dEfF166"
+          },
+          {
+            "address": "0x0AD09A66af0154a84e86F761313d02d0abB6edd5"
+          }
+        ]
+      },
+      "createdAt": 1746597270078,
+      "updatedAt": 1746597270078,
       "excluded": false
     }
   ],
   "addressMap": {
     "1": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x11111112542d85b3ef69ae05771c2dccff4faa26": "1inch",
+      "0x1111111254fb6c44bac0bed2854e76f90643097d": "1inch",
+      "0x1111111254eeb25477b68fb85ed929f73a960582": "1inch",
       "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
+      "0xdef171fe48cf0115b1d80b88dc8eab59176fee57": "paraswap",
       "0xdef1c0ded9bec7f1a1670819833240f027b25eff": "0x-api",
       "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
       "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
       "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
       "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559": "odos",
       "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
-      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie"
+      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie",
+      "0x7d2768de32b0b80b7a3454c06bdac94a69ddc7a9": "aave",
+      "0x87870bca3f3fd6335c3f4ce8392d69350b4fa4e2": "aave",
+      "0x25d598cbb74fa73290e74697616de2740d280745": "fellow-fund",
+      "0x889edc2edab5f40e902b864ad4d7ade8e412f9b1": "lido",
+      "0xae7ab96520de3a18e5e111b5eaab095312d7fe84": "lido",
+      "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": "lido",
+      "0x8236a87084f8b84306f72007f36f2618a5634494": "lombard",
+      "0x1e2aaadcf528b9cc08f43d4fd7db488ce89f5741": "morpho",
+      "0xd5ac156319f2491d4ad1ec4aa5ed0ed48c0fa173": "morpho",
+      "0x00b6f2c15e4439749f192d10c70f65354848cf4b": "morpho",
+      "0xbbbbbbbbbb9cc5e90e3b3af64bdaf62c37eeffcb": "morpho",
+      "0x45c1875f1c48622b3d9740af2d7dc62bc9a72422": "morpho",
+      "0x0f359fd18bda75e9c49bc027e7da59a4b01bf32a": "morpho",
+      "0xb9c9158ab81f90996cad891ffbadfbaad733c8c6": "morpho",
+      "0x38989bba00bdf8181f4082995b3deae96163ac5d": "morpho",
+      "0x186514400e52270cef3d80e1c6f8d10a75d47344": "morpho",
+      "0x2c25f6c25770ffec5959d34b94bf898865e5d6b1": "morpho",
+      "0xc21db71648b18c5b9e038d88393c9b254cf8eac8": "morpho",
+      "0x0404fd1a77756eb029f06b5cdea88b2b2ddc2fee": "morpho",
+      "0x1b4cd53a1a8e5f50ab6320ef34e5fb4d3df7b6f6": "morpho",
+      "0x500331c9ff24d9d11aee6b07734aa72343ea74a5": "morpho",
+      "0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658": "morpho",
+      "0x125d41a6e5dbf455cd9df8f80bcc6fd172d52cc6": "morpho",
+      "0xdd0f28e19c1780eb6396170735d45153d261490d": "morpho",
+      "0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458": "morpho",
+      "0xebfa750279defa89b8d99bdd145a016f6292757b": "morpho",
+      "0x8cb3649114051ca5119141a34c200d65dc0faa73": "morpho",
+      "0x443df5eee3196e9b2dd77cabd3ea76c3dee8f9b2": "morpho",
+      "0x2371e134e3455e0593363cbf89d3b6cf53740618": "morpho",
+      "0x1e6ffa4e9f63d10b8820a3ab52566af881dab53c": "morpho",
+      "0xf587f2e8aff7d76618d3b6b4626621860fbd54e3": "morpho",
+      "0xc080f56504e0278828a403269db945f6c6d6e014": "morpho",
+      "0x78b18e07dc43017fceaabad0751d6464c0f56b25": "morpho",
+      "0x6859b34a9379122d25a9fa46f0882d434fee36c3": "morpho",
+      "0xc582f04d8a82795aa2ff9c8bb4c1c889fe7b754e": "morpho",
+      "0x701907283a57ff77e255c3f1aad790466b8ce4ef": "morpho",
+      "0xa8875aaebc4f830524e35d57f9772ffacbdd6c45": "morpho",
+      "0xdbb316375b4dc992b2c8827d120c09dfb1d3455d": "morpho",
+      "0x132e6c9c33a62d7727cd359b1f51e5b566e485eb": "morpho",
+      "0x4ff4186188f8406917293a9e01a1ca16d3cf9e59": "morpho",
+      "0x059fc6723b9bf77dbf4283c8d7c90ea8af44ef10": "morpho",
+      "0x974c8fbf4fd795f66b85b73ebc988a51f1a040a9": "morpho",
+      "0x4ca0e178c94f039d7f202e09d8d1a655ed3fb6b6": "morpho",
+      "0x67315dd969b8cd3a3520c245837bf71f54579c75": "morpho",
+      "0xd50da5f859811a91fd1876c9461fd39c23c747ad": "morpho",
+      "0x1265a81d42d513df40d0031f8f2e1346954d665a": "morpho",
+      "0x749794e985af5a9a384b9cee6d88dab4ce1576a1": "morpho",
+      "0x98cf0b67da0f16e1f8f1a1d23ad8dc64c0c70e0b": "morpho",
+      "0x1c530d6de70c05a81bf1670157b9d928e9699089": "morpho",
+      "0x9a8bc3b04b7f3d87cfc09ba407dced575f2d61d8": "morpho",
+      "0xd63070114470f685b75b74d60eec7c1113d33a3d": "morpho",
+      "0x2f1abb81ed86be95bcf8178ba62c8e72d6834775": "morpho",
+      "0xbe40491f3261fd42724f1aeb465796eb11c06ddf": "morpho",
+      "0x89d80f5e9bc88d8021b352064ae73f0eaf79ebd8": "morpho",
+      "0x60d715515d4411f7f43e4206dc5d4a3677f0ec78": "morpho",
+      "0x95eef579155cd2c5510f312c8fa39208c3be01a8": "morpho",
+      "0xe0c98605f279e4d7946d25b75869c69802823763": "morpho",
+      "0xa02f5e93f783baf150aa1f8b341ae90fe0a772f7": "morpho",
+      "0xe87ed29896b91421ff43f69257abf78300e40c7a": "morpho",
+      "0x4f460bb11cf958606c69a963b4a17f9daeeea8b6": "morpho",
+      "0x73e65dbd630f90604062f6e02fab9138e713edd9": "morpho",
+      "0xbeefff68cc520d68f82641eff84330c631e2490e": "morpho",
+      "0xbeefff209270748ddd194831b3fa287a5386f5bc": "morpho",
+      "0xa0804346780b4c2e3be118ac957d1db82f9d7484": "morpho",
+      "0x833adaef212c5cd3f78906b44bbfb18258f238f0": "morpho",
+      "0x7204b7dbf9412567835633b6f00c3edc3a8d6330": "morpho",
+      "0xbeefc01767ed5086f35decb6c00e6c12bc7476c1": "morpho",
+      "0xbeef7959ae71d4e45e1863dae0b94c35244af816": "morpho",
+      "0xbeef02e5e13584ab96848af90261f0c8ee04722a": "morpho",
+      "0xbeef11ecb698f4b5378685c05a210bdf71093521": "morpho",
+      "0xa1b60d96e5c50da627095b9381dc5a46af1a9a42": "morpho",
+      "0x30881baa943777f92dc934d53d3bfdf33382cab3": "morpho",
+      "0xbeef047a543e45807105e51a8bbefcc5950fcfba": "morpho",
+      "0x097ffedb80d4b2ca6105a07a4d90eb739c45a666": "morpho",
+      "0xbeef094333aedd535c130958c204e84f681fd9fa": "morpho",
+      "0x0bb4d3e88243f4a057db77341e6916b0e449b158": "poap",
+      "0xce5485cfb26914c5dce00b9baf0580364dafc7a4": "starkgate",
+      "0xdac17f958d2ee523a2206206994597c13d831ec7": "tether",
+      "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45": "uniswap",
+      "0x9008d19f58aabd9ed0d60971565aa8510560ab41": "cowswap",
+      "0xdc035d45d973e3ec169d2276ddab16f1e407384f": "sky",
+      "0x1923dfee706a8e78157416c29cbccfde7cdf4102": "sky",
+      "0x3c0f895007ca717aa01c8693e59df1e8c3777feb": "sky",
+      "0x3225737a9bbb6473cb4a45b7244aca2befdb276a": "sky",
+      "0xa188eec8f81263234da3622a406892f3d630f98c": "sky",
+      "0x6b175474e89094c44da98b954eedeac495271d0f": "sky",
+      "0x9759a6ac90977b93b58547b4a71c78317f391a28": "sky",
+      "0xf6e72db5454dd049d0788e411b06cfaf16853042": "sky",
+      "0x56072c95faa701256059aa122697b133aded9279": "sky",
+      "0xbdcfca946b6cdd965f99a839e4435bcdc1bc470b": "sky",
+      "0x2621cc0b3f3c079c1db0e80794aa24976f0b9e3c": "sky",
+      "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2": "sky",
+      "0x2cc440b721d2cafd6d64908d6d8c4acc57f8afc3": "ethena",
+      "0xe3490297a08d6fc8da46edb7b6142e4f461b62d3": "ethena",
+      "0x9d39a5de30e57443bff2a8307a4256c8797a3497": "ethena",
+      "0x4c9edd5852cd905f086c759e8383e09bff1e68b3": "ethena",
+      "0xf2fa332bd83149c66b09b45670bce64746c6b439": "ethena",
+      "0x57e114b691db790c35207b2e685d4a43181e6061": "ethena",
+      "0x8be3460a480c80728a8c4d7a5d5303c85ba7b3b9": "ethena",
+      "0xc65433845ecd16688eda196497fa9130d6c47bd8": "ethena"
     },
     "10": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x1111111254eeb25477b68fb85ed929f73a960582": "1inch",
       "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
       "0xdef1abe32c034e558cdd535791643c58a13acc10": "0x-api",
       "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
@@ -590,11 +1557,17 @@
       "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
       "0xca423977156bb05b13a2ba3b76bc5419e2fe9680": "odos",
       "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
-      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie"
+      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie",
+      "0x521b4c065bbdbe3e20b3727340730936912dfa46": "walletconnect",
+      "0xef4461891dfb3ac8572ccf7c794664a8dd927945": "walletconnect"
     },
     "56": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x11111112542d85b3ef69ae05771c2dccff4faa26": "1inch",
+      "0x1111111254fb6c44bac0bed2854e76f90643097d": "1inch",
+      "0x1111111254eeb25477b68fb85ed929f73a960582": "1inch",
       "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
+      "0xdef171fe48cf0115b1d80b88dc8eab59176fee57": "paraswap",
       "0xdef1c0ded9bec7f1a1670819833240f027b25eff": "0x-api",
       "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
       "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
@@ -606,18 +1579,24 @@
     "100": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
       "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
-      "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6"
+      "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
+      "0x9008d19f58aabd9ed0d60971565aa8510560ab41": "cowswap"
     },
     "137": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x11111112542d85b3ef69ae05771c2dccff4faa26": "1inch",
+      "0x1111111254fb6c44bac0bed2854e76f90643097d": "1inch",
+      "0x1111111254eeb25477b68fb85ed929f73a960582": "1inch",
       "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
+      "0xdef171fe48cf0115b1d80b88dc8eab59176fee57": "paraswap",
       "0xdef1c0ded9bec7f1a1670819833240f027b25eff": "0x-api",
       "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
       "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
       "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
       "0x4e3288c9ca110bcc82bf38f09a7b425c095d92bf": "odos",
       "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
-      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie"
+      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie",
+      "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff": "quickswap"
     },
     "250": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
@@ -659,10 +1638,82 @@
       "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
       "0x19ceead7105607cd444f5ad10dd51356436095a1": "odos",
       "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
-      "0xef42f78d25f4c681dcad2597fa04877ff802ef4b": "magpie"
+      "0xef42f78d25f4c681dcad2597fa04877ff802ef4b": "magpie",
+      "0xf540d790413fcfaedac93518ae99eddace82cb78": "morpho",
+      "0x5496b42ad0decebfab0db944d83260e60d54f667": "morpho",
+      "0xbbbbbbbbbb9cc5e90e3b3af64bdaf62c37eeffcb": "morpho",
+      "0xcddcdd18a16ed441f6cb10c3909e5e7ec2b9e8f3": "morpho",
+      "0xc484d83f667b779cc9907248101214235642258b": "morpho",
+      "0x70f796946ed919e4bc6cd506f8dacc45e4539771": "morpho",
+      "0xa0e430870c4604ccfc7b38ca7845b1ff653d0ff1": "morpho",
+      "0xf24608e0ccb972b0b0f4a6446a0bbf58c701a026": "morpho",
+      "0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca": "morpho",
+      "0x543257ef2161176d7c8cd90ba65c2d4caef5a796": "morpho",
+      "0x1c155be6bc51f2c37d472d4c2eba7a637806e122": "morpho",
+      "0x0d05e6ec0a10f9ffe9229eaa785c11606a1d13fb": "morpho",
+      "0xc0c5689e6f4d256e861f65465b691aeecc0deb12": "morpho",
+      "0xee8f4ec5672f09119b96ab6fb59c27e1b7e44b61": "morpho",
+      "0x6b13c060f13af1fdb319f52315bbbf3fb1d88844": "morpho",
+      "0xcd347c1e7d600a9a3e403497562edd0a7bc3ef21": "morpho",
+      "0x9ab2d181e4b87ba57d5ed564d3ef652c4e710707": "morpho",
+      "0x616a4e1db48e22028f6bbf20444cd3b8e3273738": "morpho",
+      "0x27d8c7273fd3fcc6956a0b370ce5fd4a7fc65c18": "morpho",
+      "0x5a47c803488fe2bb0a0eaaf346b420e4df22f3c7": "morpho",
+      "0x6e37c95b43566e538d8c278eb69b00fc717a001b": "morpho",
+      "0xa2cac0023a4797b4729db94783405189a4203afc": "morpho",
+      "0x74b6ea9bfee07c3756969b0139cfacbba5845969": "morpho",
+      "0xdb90a4e973b7663ce0ccc32b6fbd37ffb19bfa83": "morpho",
+      "0x8c3a6b12332a6354805eb4b72ef619aedd22bcdd": "morpho",
+      "0x30b8a2c8e7fa41e77b54b8faf45c610e7ad909e3": "morpho",
+      "0xbb819d845b573b5d7c538f5b85057160cfb5f313": "morpho",
+      "0x80d9964feb4a507dd697b4437fc5b25b618ce446": "morpho",
+      "0x0fabfeacedf47e890c50c8120177fff69c6a1d9b": "morpho",
+      "0xb7890cee6cf4792cdcc13489d36d9d42726ab863": "morpho",
+      "0x7bfa7c4f149e7415b73bdedfe609237e29cbf34a": "morpho",
+      "0xbeef050a7485865a7a8d8ca0cc5f7536b7a3443e": "morpho",
+      "0xbeefa28d5e56d41d35df760ab53b94d9ffd7051f": "morpho",
+      "0xbeef086b8807dc5e5a1740c5e3a7c4c366ea6ab5": "morpho",
+      "0xb17b070a56043e1a5a1ab7443afafdebcc1168d7": "morpho",
+      "0xbeefa1abfebe621df50ceaef9f54fdb73648c92c": "morpho",
+      "0xbeef010f9cb27031ad51e3333f9af9c6b1228183": "morpho",
+      "0xbeefc4adbe58173fca2c042097fe33095e68c3d6": "morpho",
+      "0xbeef03f0bf3cb2e348393008a826538aadd7d183": "morpho",
+      "0x9008d19f58aabd9ed0d60971565aa8510560ab41": "cowswap",
+      "0x940181a94a35a4569e4529a3cdfb74e38fd98631": "aerodrome",
+      "0xe4c69af018b2ea9e575026c0472b6531a2bc382f": "aerodrome",
+      "0xe9992487b2ee03b7a91241695a58e0ef3654643e": "aerodrome",
+      "0x5c3f18f06cc09ca1910767a34a20f771039e37c0": "aerodrome",
+      "0x15e62707fca7352fbe35f51a8d6b0f8066a05dcc": "aerodrome",
+      "0x35f35ca5b132cadf2916bab57639128eac5bbcb5": "aerodrome",
+      "0xfda1fb5a2a5b23638c7017950506a36dcfd2bdc3": "aerodrome",
+      "0xeb018363f0a9af8f91f06fee6613a751b2a33fe5": "aerodrome",
+      "0x420dd381b31aef6683db6b902084cb0ffece40da": "aerodrome",
+      "0x227f65131a261548b057215bb1d5ab2997964c7d": "aerodrome",
+      "0xcf77a3ba9a5ca399b7c97c74d54e5b1beb874e43": "aerodrome",
+      "0x16613524e02ad97edfef371bc883f2f5d6c480a5": "aerodrome",
+      "0xebf418fe2512e7e6bd9b87a8f0f294acdc67e6b4": "aerodrome",
+      "0x45ca74858c579e717ee29a86042e0d53b252b504": "aerodrome",
+      "0xd30677bd8dd15132f251cb54cbda552d2a05fb08": "aerodrome",
+      "0xf5601f95708256a118ef5971820327f362442d2d": "aerodrome",
+      "0x0a5aa5d3a4d28014f967bf0f29eaa3ff9807d5c6": "aerodrome",
+      "0x827922686190790b37229fd06084350e74485b72": "aerodrome",
+      "0x01b0cacb9a8004e08d075c919b5df3b59fd53c55": "aerodrome",
+      "0x5e7bb104d84c7cb9b682aac2f3d509f5f406809a": "aerodrome",
+      "0xec8e5342b19977b4ef8892e02d8daecfa1315831": "aerodrome",
+      "0x254cf9e1e6e233aa1ac962cb9b05b2cfeaae15b0": "aerodrome",
+      "0xf4171b0953b52fa55462e4d76eca1845db69af00": "aerodrome",
+      "0x0ad08370c76ff426f534bb2affd9b5555338ee68": "aerodrome",
+      "0x6cb442acf35158d5eda88fe602221b67b400be3e": "aerodrome",
+      "0xbe6d8f0d05cc4be24d5167a3ef062215be6d18a5": "aerodrome",
+      "0xee717411f6e44f9fee011835c8e6faac5deff166": "aerodrome",
+      "0x0ad09a66af0154a84e86f761313d02d0abb6edd5": "aerodrome"
+    },
+    "17000": {
+      "0xed7bfd5c1790576105af4649817f6d35a75cd818": "lombard"
     },
     "42161": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
+      "0x1111111254eeb25477b68fb85ed929f73a960582": "1inch",
       "0x216b4b4ba9f3e719726886d34a177484278bfcae": "paraswap",
       "0xdef1c0ded9bec7f1a1670819833240f027b25eff": "0x-api",
       "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
@@ -670,7 +1721,9 @@
       "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
       "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13": "odos",
       "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
-      "0x34cdce58cbdc6c54f2ac808a24561d0ab18ca8be": "magpie"
+      "0x34cdce58cbdc6c54f2ac808a24561d0ab18ca8be": "magpie",
+      "0xff131917e1d6751e4d1b17612751db521b1403c5": "kiln",
+      "0x9008d19f58aabd9ed0d60971565aa8510560ab41": "cowswap"
     },
     "43114": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
