@@ -67,7 +67,7 @@ const PROTOCOL_INFO: Record<string, ProtocolInfo> = {
     id: "paraswap",
     name: "ParaSwap",
     slug: "paraswap",
-    logo: "https://icons.llama.fi/paraswap.jpg",
+    logo: "/assets/paraswap.png",
     category: ["DEX", "Aggregator"],
   },
   ZEROXAPI: {
@@ -81,7 +81,7 @@ const PROTOCOL_INFO: Record<string, ProtocolInfo> = {
     id: "uniswap-v3",
     name: "Uniswap V3",
     slug: "uniswap-v3",
-    logo: "/assets/uniswap.svg",
+    logo: "/assets/uniswap.png",
     category: ["DEX"],
   },
   WRAPTOKEN: {

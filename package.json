@@ -10,7 +10,13 @@
     "dev": "ts-node src/index.ts",
     "fetch": "ts-node src/scripts/fetchContracts.ts",
     "build-registry": "ts-node src/scripts/buildRegistry.ts",
-    "clean": "rm -rf dist"
+    "fetch:clear-signing": "ts-node src/scripts/fetchClearSigningMetadata.ts",
+    "build:clear-signing-registry": "ts-node src/scripts/buildClearSigningRegistry.ts",
+    "clear-signing": "npm run fetch:clear-signing && npm run build:clear-signing-registry",
+    "clean": "rm -rf dist",
+    "add:hardcoded": "ts-node src/scripts/addHardcodedProtocols.ts",
+    "fetch:euler": "ts-node src/scripts/fetchEulerContracts.ts",
+    "fetch:pendle": "ts-node src/scripts/fetchPendleContracts.ts"
   },
   "keywords": [
     "defi",
