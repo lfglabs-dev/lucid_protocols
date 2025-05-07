@@ -1429,6 +1429,1744 @@
       "createdAt": 1746597270078,
       "updatedAt": 1746597270078,
       "excluded": false
+    },
+    {
+      "id": "euler",
+      "name": "Euler",
+      "slug": "euler",
+      "logo": "/assets/euler.png",
+      "category": [
+        "Lending"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x4d7e09f73843Bd4735AaF7A74b6d877bac75a531"
+          },
+          {
+            "address": "0x0D52d06ceB8Dcdeeb40Cfd9f17489B350dD7F8a3"
+          },
+          {
+            "address": "0x29a56a1b8214D9Cf7c5561811750D5cBDb45CC8e"
+          },
+          {
+            "address": "0x8Ff1C814719096b61aBf00Bb46EAd0c9A529Dd7D"
+          },
+          {
+            "address": "0x9a20d3C0c283646e9701a049a2f8C152Bc1e3427"
+          },
+          {
+            "address": "0xBa42141648dFD74388f3541C1d80fa9387043Da9"
+          },
+          {
+            "address": "0x0C9a3dd6b8F28529d72d7f9cE918D493519EE383"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x4cD6BF1D183264c02Be7748Cb5cd3A47d013351b"
+          },
+          {
+            "address": "0xEADDD21618ad5Deb412D3fD23580FD461c106B54"
+          }
+        ],
+        "10": [
+          {
+            "address": "0xf932863E538aF568dF9C79dA379fd8ffD8525342"
+          },
+          {
+            "address": "0x9f1942a30Dd99896945Ff544BE68c8ce790ECb57"
+          },
+          {
+            "address": "0x7943231a109703937bB7fb3D4dfB55D824deDe99"
+          },
+          {
+            "address": "0x94b14e4678B08c3Ee93cA8611672270575f9ead8"
+          },
+          {
+            "address": "0x317CCF92BEec1B5487C387AEFaCc54F2992165Ce"
+          },
+          {
+            "address": "0x29C865d1435C3d25FeB7865837e4ebf63D609e65"
+          },
+          {
+            "address": "0xbfB28650Cd13CE879E7D56569Ed4715c299823E4"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0xAECe407aF2DBCd0B6C5Fb522744cCE6beac6Fb72"
+          },
+          {
+            "address": "0xb8551503651FfB86371E750802d4094f7435758A"
+          }
+        ],
+        "56": [
+          {
+            "address": "0x1633269308F154fbECBb15F91d72D2aFA6af95B4"
+          },
+          {
+            "address": "0x2D13C46FE6c8B6c9ad3C5A78eD51b26733caE350"
+          },
+          {
+            "address": "0x7F53E2755eB3c43824E162F7F6F087832B9C9Df6"
+          },
+          {
+            "address": "0xB236413f1A8Fd4C5D5545ecAaC5e64fF686afe4e"
+          },
+          {
+            "address": "0xd4FffC1e799E714aEd1461C14e95f55b6B3390e8"
+          },
+          {
+            "address": "0x8FF6da0a7C96f33690bD71f5507118033d2D7c25"
+          },
+          {
+            "address": "0xb2E5a73CeE08593d1a076a2AE7A6e02925a640ea"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0xF524F75ad063919B86d6c5D9242847A44337BFCe"
+          },
+          {
+            "address": "0x7fD287B3AE3Bf2F6C9871a44b6d9de208B0ABBE5"
+          }
+        ],
+        "100": [
+          {
+            "address": "0x97e839139877C7c122f962ed69563a50B717C013"
+          },
+          {
+            "address": "0xc3688DE625abE9231ca004D6dE78438Da5496Fa9"
+          },
+          {
+            "address": "0x4CB405C3515841c9BBFB363CD3105479e15ce5B0"
+          },
+          {
+            "address": "0x80fF02a2b6b945D3127C21275c0D10116B737731"
+          },
+          {
+            "address": "0xE600cACf641e9143fD5e4Bb4157db9C567E908E8"
+          },
+          {
+            "address": "0x053961adE0A97F70aF6169763f5EE4C593f564f0"
+          },
+          {
+            "address": "0xD1446CDaa29b342C04c6162023f3A645CB318736"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0xcB7c8afbE09307Be5cdB668274137a92145353D7"
+          },
+          {
+            "address": "0x1CF12927ea07abA188bAB81B90Ab535E49A694eB"
+          }
+        ],
+        "130": [
+          {
+            "address": "0x41a11d85577Bb21743E11Eca62e2b241DC1eD5C0"
+          },
+          {
+            "address": "0xFbD12fbC91311A8f17598b935e35205EAF16Aa75"
+          },
+          {
+            "address": "0xbAd8b5BDFB2bcbcd78Cc9f1573D3Aad6E865e752"
+          },
+          {
+            "address": "0x71d7250732591C41D1BdeB1EA0Ee730E138E0c8b"
+          },
+          {
+            "address": "0x9efeAc4498d1fA78b750307C2a918Ff491A111DE"
+          },
+          {
+            "address": "0xE9878336e83d44c367Fb82B85285c26fcF249C4D"
+          },
+          {
+            "address": "0x2A1176964F5D7caE5406B627Bf6166664FE83c60"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0xdCD02E4eA8cd273498D315AD8c047305f8480656"
+          },
+          {
+            "address": "0x08799a00BC4a74890d65f77828cd2BFbBFcD96dB"
+          }
+        ],
+        "137": [
+          {
+            "address": "0x357727718d2A9ce83B877f503f56dED39719dCb9"
+          },
+          {
+            "address": "0x751Ab2C287159fa2fA1a1A5A0f209c3F6e83A282"
+          },
+          {
+            "address": "0x3f23552A0ABd8E01AFf5E8704E8A5671A80432B5"
+          },
+          {
+            "address": "0x5Ed27EFcb2E58b0B9cD163f9ef78bA87F167b8d2"
+          },
+          {
+            "address": "0x38e3818947a4104Cab38f9B51362E991A970168D"
+          },
+          {
+            "address": "0xab04BAabf333bD9997CAC0661B6EcE4B88Be3F39"
+          },
+          {
+            "address": "0xa1C13F5c4929521F0bf31cBE03025cb75C214DCB"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x5aE64b596224cdE56C852269E9b35aD25e22Af90"
+          },
+          {
+            "address": "0xA9B3Fe66d8FdBa841a4918D32e12894E5D36BC94"
+          }
+        ],
+        "146": [
+          {
+            "address": "0x31aA74232A0b0E50e5bF95780b2116710a34c7E9"
+          },
+          {
+            "address": "0xe6E4687C35429942391AfE42CDdECba857531492"
+          },
+          {
+            "address": "0xF075cC8660B51D0b8a4474e3f47eDAC5fA034cFB"
+          },
+          {
+            "address": "0x11f95aaa59F1AD89576c61E3C9Cd24DF1FdCF46f"
+          },
+          {
+            "address": "0xc8EB6dD027C4Ab1754245F6FdE91B39090C12aDd"
+          },
+          {
+            "address": "0xcfE702B937687a9c9C93E794EdfeF435D8D8486B"
+          },
+          {
+            "address": "0x4860C903f6Ad709c3eDA46D3D502943f184D4315"
+          },
+          {
+            "address": "0xB952578f3520EE8Ea45b7914994dcf4702cEe578"
+          },
+          {
+            "address": "0xc2f9FE90bd17e017898b6EfDaa73c34Fddde299e"
+          },
+          {
+            "address": "0x6F417AaEc1D41dB692307269acDA019Ce5F10b0e"
+          }
+        ],
+        "480": [
+          {
+            "address": "0x98DBBE5454C7697bBcda63604a875E3db4Cb525F"
+          },
+          {
+            "address": "0x2e37490ecEBc68dc9250ab2DC7729037C1638270"
+          },
+          {
+            "address": "0xba31C9e91E909E47F2F4F174936811A1E2123B57"
+          },
+          {
+            "address": "0x1F2A11F83E6260FE660F6C0A89bAAF204a2d723C"
+          },
+          {
+            "address": "0xeEB368cCac95171C785cfAd7a099B26078b4F76c"
+          },
+          {
+            "address": "0xA3aE917eDbBC260ad23515082d41B4F120Ad15F2"
+          },
+          {
+            "address": "0x1384708aD4EEd6c264c196555422956306348359"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x1a03E7b634D813EFC3a8415EF0DC034026DC86b0"
+          },
+          {
+            "address": "0x975aF70E8C2B40BBe13677931C285Baa941E4337"
+          }
+        ],
+        "999": [
+          {
+            "address": "0x976666e0ae74A8A4059cF1acf706891aDE98C3d1"
+          },
+          {
+            "address": "0x05d14f4eDFA7Cbfb90711C2EC5505bcbd49b9cD2"
+          },
+          {
+            "address": "0xcF5552580fD364cdBBFcB5Ae345f75674c59273A"
+          },
+          {
+            "address": "0x05de079A28386135E048369cdf0Bc4D326d5EBDF"
+          },
+          {
+            "address": "0xf21dfadFc4d3da25aCE489c7A95EDDc5f47B809a"
+          },
+          {
+            "address": "0xFf70E197F6Ae7416f143fAB5C9bEc30ecF55B093"
+          },
+          {
+            "address": "0xceAA7cdCD7dDBee8601127a9Abb17A974d613db4"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x43144f09896F8759DE2ec6D777391B9F05A51128"
+          },
+          {
+            "address": "0x47618E4CBDcFBf5f21D6594A7e3a4f4683719994"
+          }
+        ],
+        "1923": [
+          {
+            "address": "0xD0148dDB69f4d8182Ef863d6f81ED6519D8c83a2"
+          },
+          {
+            "address": "0x9fb7215ef6297498D6807caf9f3aC8BA3154db29"
+          },
+          {
+            "address": "0x238bF86bb451ec3CA69BB855f91BDA001aB118b9"
+          },
+          {
+            "address": "0x70f1286239228B28A047c727C2df390045299486"
+          },
+          {
+            "address": "0xf6c81239B4E3c71bFd156223971821438c42Eabc"
+          },
+          {
+            "address": "0xcD8E56a127B41D40A7542C8c8E77551C157108D0"
+          },
+          {
+            "address": "0x08739CBede6E28E387685ba20e6409bD16969Cde"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x6682Af2820633067A1de5bE99b2DCb2d38F1e241"
+          },
+          {
+            "address": "0xC4589C6199516F96B422D91020563Fe65b28918e"
+          }
+        ],
+        "2818": [
+          {
+            "address": "0x9895149F3324666d94664C159Af0cd026eb53761"
+          },
+          {
+            "address": "0x7bF00B8638d0eBE917C82B286Fc07E86988F3A1C"
+          },
+          {
+            "address": "0x1a1bdF62Fe7170c652f03fF153977C26fBe7b2E1"
+          },
+          {
+            "address": "0xC98f21E7b1F12ab225386226D022a67E65D8B0cE"
+          },
+          {
+            "address": "0x9344a45943993938B628414d820E4a314afC8c2D"
+          },
+          {
+            "address": "0x2C75e510548156E2C33C07C89931df04CE1a6D0b"
+          },
+          {
+            "address": "0xC7c31B1E7Cac36478C62f876F357b95d9cAd9817"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x235597e32131A6681592Ac276c967a5b8c89dCb3"
+          },
+          {
+            "address": "0x433438DD80353fB1893253348b7b14f821b4cCFB"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0x9ff7ea0Cf94b8665c2F5d17560Bd34Ab9BbAcd21"
+          },
+          {
+            "address": "0x029fDEe85BEdB0553D6fdc538546586641DD7438"
+          },
+          {
+            "address": "0x7F321498A801A191a93C840750ed637149dDf8D0"
+          },
+          {
+            "address": "0x30a9A9654804F1e5b3291a86E83EdeD7cF281618"
+          },
+          {
+            "address": "0x72bbDB652F2AEC9056115644EfCcDd1986F51f15"
+          },
+          {
+            "address": "0x6104c0F2a7750F1b143DAB49752e19DA43dec34A"
+          },
+          {
+            "address": "0x5301c7dD20bD945D2013b48ed0DEE3A284ca8989"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x1D4b9e6ACACdc82Dd9E903C3F4431558Af32C4A9"
+          },
+          {
+            "address": "0xfE9011FD097cd35866b9e4740BBC88B4ef26E3ba"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0x174834a9DE4C2f0c13c7353e62C229E8D607c808"
+          },
+          {
+            "address": "0xbCD29c1B596d9fFAfaa6F90780956b4D3d47832f"
+          },
+          {
+            "address": "0x78Df1CF5bf06a7f27f2ACc580B934238C1b80D50"
+          },
+          {
+            "address": "0x832fF4011A3164ea76ceA06A313EE0B6CD72ba96"
+          },
+          {
+            "address": "0xd4500C75048A65Df0e83667a546A5FB27B02AA56"
+          },
+          {
+            "address": "0x9Da3B8051b2592CA6FB10dae538d7B390e9c8376"
+          },
+          {
+            "address": "0x6302ef0F34100CDDFb5489fbcB6eE1AA95CD1066"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x06c1Ab0A1672E8FC7F7D10BD7B869B4116D18a2c"
+          },
+          {
+            "address": "0x924C73abAa350800fc22c11ffdFB09641106E3ce"
+          }
+        ],
+        "43114": [
+          {
+            "address": "0xF1A5F97AB84158Cf6d8ba8dEF68780Fc2Fd64310"
+          },
+          {
+            "address": "0xAf5659428FEF1F6a701FaB46d8f3aF8371A9913D"
+          },
+          {
+            "address": "0xaf4B4c18B17F6a2B32F6c398a3910bdCD7f26181"
+          },
+          {
+            "address": "0x29E9b639e165d919FEcf02521F8A9dA0492D4f21"
+          },
+          {
+            "address": "0xe5a94aE6178CFd65856b19A4EB8dD61D85C63E11"
+          },
+          {
+            "address": "0x789d447Cf07a703a1A1326B6B4CA84693d29A4Dd"
+          },
+          {
+            "address": "0xddcbe30A761Edd2e19bba930A977475265F36Fa1"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x8564160f30926eA1229DCcf24118c6De155D2e30"
+          },
+          {
+            "address": "0x9C38f923baC407C818312EADEf69AdC116fd16FD"
+          }
+        ],
+        "57073": [
+          {
+            "address": "0x89504f5d5f4fb646D283417788b1e783912Bbdf9"
+          },
+          {
+            "address": "0x7A49f3b99d5737c1D3dcF9F278a8568ed4092416"
+          },
+          {
+            "address": "0xD17587B7da4383bE4b64bD2D0c87119a17Ee5130"
+          },
+          {
+            "address": "0x927dBf538B7A02491268e53748546730706a0fDc"
+          },
+          {
+            "address": "0x855A399bE9d3d7afED44346BDe35FD2C8D910668"
+          },
+          {
+            "address": "0x8360B4D341e4459AE77b98F70a4757fcf51e4431"
+          },
+          {
+            "address": "0x59B8DfBcD3F004e7287eA021A67D54763fEAeE0C"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x41fa2486c164840B49663D422eb7E1Ee19C4FB23"
+          },
+          {
+            "address": "0x4790c32228a704B635d7c50f91CefD3A0F77E721"
+          }
+        ],
+        "59144": [
+          {
+            "address": "0xd048d4e39e13482ECcE115E7BB71128d26ca19f1"
+          },
+          {
+            "address": "0xB9E491A3BB9d4B155d31a9cA6B9dE245CA16AAe6"
+          },
+          {
+            "address": "0x84711986Fd3BF0bFe4a8e6d7f4E22E67f7f27F04"
+          },
+          {
+            "address": "0x58270C41552Bb2bef3Dc4e103b6f0c226032f007"
+          },
+          {
+            "address": "0xDea64243b460c8D9164d53c47a9F5C4A7CeD85DF"
+          },
+          {
+            "address": "0xe798737Ed343c0016C414B24Fb808f43a3549122"
+          },
+          {
+            "address": "0xd8CeCEe9A04eA3d941a959F68fb4486f23271d09"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x91868601df03ED8E134EaAaB5E06F7183CC8383f"
+          },
+          {
+            "address": "0xcB1bB0A8A7ddeb09983dC1e7F880DCEdc39362BA"
+          }
+        ],
+        "60808": [
+          {
+            "address": "0x797964F9eB3A733D443810820f56c9ebAab1d1c2"
+          },
+          {
+            "address": "0x5a3828beA292E5f29725Fa449F9113Cb5E60ADF8"
+          },
+          {
+            "address": "0x046a9837A61d6b6263f54F4E27EE072bA4bdC7e4"
+          },
+          {
+            "address": "0x32CFc56917C0025501b34C43f7FE767Ef1EDE3a2"
+          },
+          {
+            "address": "0x118feebFBaFc7106aE79Dd4d6D2661df4D031B1E"
+          },
+          {
+            "address": "0x2D72821B5C46718A728Bc2eD9d346cf11A91638C"
+          },
+          {
+            "address": "0x59f0FeEc4fA474Ad4ffC357cC8d8595B68abE47d"
+          },
+          {
+            "address": "0xCbe9Be2C87b24b063A21369b6AB0Aa9f149c598F"
+          },
+          {
+            "address": "0x94047C7daF06a6DE4049365cFa95fb4389a6F9Fe"
+          },
+          {
+            "address": "0xf4C097718c64B6B0A75Cd9e0EF348fD6F176bE67"
+          }
+        ],
+        "80094": [
+          {
+            "address": "0xc1d31b2812Cc920341349a717d14bAdFb1BCab11"
+          },
+          {
+            "address": "0x70Fb24bDa46E7cFD447C64bB32180Bc746ba3A71"
+          },
+          {
+            "address": "0x5C13fb43ae9BAe8470f646ea647784534E9543AF"
+          },
+          {
+            "address": "0x402598Ac4034D24f2cB37BDb0721A67365aD19BD"
+          },
+          {
+            "address": "0xDf380dc486a72984fBCBf224dc4e21599485d1B1"
+          },
+          {
+            "address": "0xB053A4fb7d9C86e9135f581231d98abA0A940d29"
+          },
+          {
+            "address": "0x45334608ECE7B2775136bC847EB92B5D332806A9"
+          },
+          {
+            "address": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+          },
+          {
+            "address": "0x51432af61A715DB3D0f20A3691C1E25F9A2c6B05"
+          },
+          {
+            "address": "0x0c9a75E05764775A0cF52bC6cbfE6Cb229bb3901"
+          }
+        ],
+        "21000000": [
+          {
+            "address": "0x22C6E10e0742C76DaB31c3389879950473F175cD"
+          },
+          {
+            "address": "0x56bdBB0263eAa299Bed51b64daB2031cD08e3DEE"
+          },
+          {
+            "address": "0xd1223135f3Ba555f8381027D4307a6012EA488AF"
+          },
+          {
+            "address": "0x3a20E044b2FCe60A9303953CB4a66cae48e3F044"
+          },
+          {
+            "address": "0xEe32De022257ECc34815c8c1F1a1D1c00A356159"
+          },
+          {
+            "address": "0x32f09aA71E63D0f8517fdE032a2f0abdB56B5C1f"
+          },
+          {
+            "address": "0x5A6D717C7F407a47175dAB887EDE56F516d64Faf"
+          },
+          {
+            "address": "0xB952578f3520EE8Ea45b7914994dcf4702cEe578"
+          },
+          {
+            "address": "0x91ed7190ffBA0B6fCc002a72d74a76bc08f9f6c9"
+          },
+          {
+            "address": "0x945114b1C7DBe1F226DcBb4F88864e0C00372b44"
+          }
+        ]
+      },
+      "createdAt": 1746604822541,
+      "updatedAt": 1746612273808,
+      "excluded": false
+    },
+    {
+      "id": "pendle",
+      "name": "Pendle",
+      "slug": "pendle",
+      "logo": "/assets/pendle.png",
+      "category": [
+        "Yield"
+      ],
+      "contracts": {
+        "1": [
+          {
+            "address": "0x1FcCC097db89A86Bfc474A1028F93958295b1Fb7"
+          },
+          {
+            "address": "0x8270400d528c34e1596EF367eeDEc99080A1b592"
+          },
+          {
+            "address": "0x8119EC16F0573B7dAc7C0CB94EB504FB32456ee1"
+          },
+          {
+            "address": "0xE6F0489ED91dc27f40f9dbe8f81fccbFC16b9cb1"
+          },
+          {
+            "address": "0x808507121b80c02388fad14726482e061b8da827"
+          },
+          {
+            "address": "0x66A71Dcef29A0fFBDBE3c6a460a3B5BC225Cd675"
+          },
+          {
+            "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+          },
+          {
+            "address": "0x248087C69e72E211b7264720Bf6cC5A954F98CDE"
+          },
+          {
+            "address": "0xeea6F790F18563E91b18DF00B89d9f79b2E6761F"
+          },
+          {
+            "address": "0x35878C2Cff38cC4032E85283183428170BA618A2"
+          },
+          {
+            "address": "0x2aD631F72fB16d91c4953A7f4260A97C2fE2f31e"
+          },
+          {
+            "address": "0x70ee0A6DB4F5a2Dc4d9c0b57bE97B9987e75BAFD"
+          },
+          {
+            "address": "0x27b1dAcd74688aF24a64BD3C9C1B143118740784"
+          },
+          {
+            "address": "0x888888888889758F76e7103c6CbF23ABbF58F946"
+          },
+          {
+            "address": "0x663C21103915B68e9dA797CfdF3cAb01a037D5Ff"
+          },
+          {
+            "address": "0xd8D200d9A713A1c71cF1e7F694B14E5F1D948b15"
+          },
+          {
+            "address": "0x4a03Ce0a268951d04E187B1CF48075eE69266e27"
+          },
+          {
+            "address": "0x373Dba2055Ad40cb4815148bC47cd1DC16e92E44"
+          },
+          {
+            "address": "0x852e59252c94716F0df19B52b36512f6C9297a96"
+          },
+          {
+            "address": "0x997FBC511a8Ad11F84a400feACD66E2A3fa805d2"
+          },
+          {
+            "address": "0x6a0Ed0A9193FCBe7ae9B0F3D90F88e365Cca64fC"
+          },
+          {
+            "address": "0x263833d47eA3fA4a30f269323aba6a107f9eB14C"
+          },
+          {
+            "address": "0xd4e9B0d466789d7F6201442eecCBA6a75A552db0"
+          },
+          {
+            "address": "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2"
+          },
+          {
+            "address": "0xdF3601014686674e53d1Fa52F7602525483F9122"
+          },
+          {
+            "address": "0x1A6fCc85557BC4fB7B534ed835a03EF056552D52"
+          },
+          {
+            "address": "0x273b4bFA3Bb30fe8F32c467b5f0046834557F072"
+          },
+          {
+            "address": "0x3d75Bd20C983edb5fD218A1b7e0024F1056c7A2F"
+          },
+          {
+            "address": "0x35A338522a435D46f77Be32C70E215B813D0e3aC"
+          },
+          {
+            "address": "0x6fcf753f2C67b83f7B09746Bbc4FA0047b35D050"
+          },
+          {
+            "address": "0x4Df98410c95737FD646D2413AC6CAFc1c04834b9"
+          },
+          {
+            "address": "0xF642d8Daa026B8aEd6dFE82FACbA2E077AF199E2"
+          },
+          {
+            "address": "0x000000000000c9B3E2C3Ec88B1B4c0cD853f4321"
+          },
+          {
+            "address": "0xA28c08f165116587D4F3E708743B4dEe155c5E64"
+          },
+          {
+            "address": "0x73d5DBF81A4f3bFa7b335e6a2d4638D6017a4fA8"
+          },
+          {
+            "address": "0x2Ed473F528E5B320f850d17ADfe0e558f0298aA9"
+          },
+          {
+            "address": "0x466CeD3b33045Ea986B2f306C8D0aA8067961CF8"
+          },
+          {
+            "address": "0x34C91651A070664279866E5f3d6B4d5F65cbbFFb"
+          },
+          {
+            "address": "0x2A73e899389cABa2a2f648BaBA35e67f5C00EFee"
+          },
+          {
+            "address": "0x4f30A9D41B80ecC5B94306AB4364951AE3170210"
+          },
+          {
+            "address": "0x07b1014c88f14C9E910092526db57A20052E989F"
+          },
+          {
+            "address": "0x44087E105137a5095c008AaB6a6530182821F2F0"
+          },
+          {
+            "address": "0x47D74516B33eD5D70ddE7119A40839f6Fcc24e57"
+          },
+          {
+            "address": "0x3942F7B55094250644cFfDa7160226Caa349A38E"
+          },
+          {
+            "address": "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d"
+          },
+          {
+            "address": "0xd7b34a6fDCb2A7ceD2115FF7f5fdD72aa6aA4dE2"
+          },
+          {
+            "address": "0x8C237520a8E14D658170A633D96F8e80764433b9"
+          },
+          {
+            "address": "0xfd6Df9EFACfEfdF4E610d687A9c9b941D1b1Bf75"
+          },
+          {
+            "address": "0x539fd510fE352CC81822a222F821c340133Ed41C"
+          },
+          {
+            "address": "0x43D03031FAb845065e9CEfE89Dd122d63F72011F"
+          },
+          {
+            "address": "0x2b3EC64160F658fFe7061769415Ff080fca80BbA"
+          },
+          {
+            "address": "0x438C7dBA7d355aA0c77459AF38B2E62f9f9EccBf"
+          }
+        ],
+        "10": [
+          {
+            "address": "0x1FcCC097db89A86Bfc474A1028F93958295b1Fb7"
+          },
+          {
+            "address": "0xE972D450ec5b11b99D97760422e0E054Afbc8042"
+          },
+          {
+            "address": "0xa06C863fcf17cA6f24AA81aeA75E23953193fF6A"
+          },
+          {
+            "address": "0x79d7a5e8b130eEf1e022b3EDEE4DAF226DC168CA"
+          },
+          {
+            "address": "0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1"
+          },
+          {
+            "address": "0x3c2269811836af69497E5F486A85D7316753cf62"
+          },
+          {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          {
+            "address": "0x2A6345a058cA9fc8A2cF35D83ec9005119c4f474"
+          },
+          {
+            "address": "0xeea6F790F18563E91b18DF00B89d9f79b2E6761F"
+          },
+          {
+            "address": "0x9a5aF6A35bb56443C577d57c303CDA39F56Dd173"
+          },
+          {
+            "address": "0x2aD631F72fB16d91c4953A7f4260A97C2fE2f31e"
+          },
+          {
+            "address": "0xf5a7De2D276dbda3EEf1b62A9E718EFf4d29dDC8"
+          },
+          {
+            "address": "0x17F100fB4bE2707675c6439468d38249DD993d58"
+          },
+          {
+            "address": "0x888888888889758F76e7103c6CbF23ABbF58F946"
+          },
+          {
+            "address": "0x663C21103915B68e9dA797CfdF3cAb01a037D5Ff"
+          },
+          {
+            "address": "0xd8D200d9A713A1c71cF1e7F694B14E5F1D948b15"
+          },
+          {
+            "address": "0x4a03Ce0a268951d04E187B1CF48075eE69266e27"
+          },
+          {
+            "address": "0x373Dba2055Ad40cb4815148bC47cd1DC16e92E44"
+          },
+          {
+            "address": "0x852e59252c94716F0df19B52b36512f6C9297a96"
+          },
+          {
+            "address": "0x997FBC511a8Ad11F84a400feACD66E2A3fa805d2"
+          },
+          {
+            "address": "0x6a0Ed0A9193FCBe7ae9B0F3D90F88e365Cca64fC"
+          },
+          {
+            "address": "0x704478Dd72FD7F9B83d1F1e0fc18C14B54F034d0"
+          },
+          {
+            "address": "0xd4e9B0d466789d7F6201442eecCBA6a75A552db0"
+          },
+          {
+            "address": "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2"
+          },
+          {
+            "address": "0xfa6B22FC4c3Ad88B68c16b3061a16b1714F6Bd57"
+          },
+          {
+            "address": "0x4A2B38b9cBd83c86F261a4d64c243795D4d44aBC"
+          },
+          {
+            "address": "0xf799E4c029d14f41Dc1918C9A4C67242F565710e"
+          },
+          {
+            "address": "0x73Be47237F12F36203823BAc9A4d80dC798B7015"
+          },
+          {
+            "address": "0xCcA0977eA3809C8fB785737Eb9fAcD5B19626e81"
+          },
+          {
+            "address": "0x02Adf72d5D06a9C92136562Eb237C07696833a84"
+          },
+          {
+            "address": "0x439B4d66255eFf74e621FBacb00D7162b588Ff4b"
+          },
+          {
+            "address": "0x000000000000c9B3E2C3Ec88B1B4c0cD853f4321"
+          },
+          {
+            "address": "0xA28c08f165116587D4F3E708743B4dEe155c5E64"
+          },
+          {
+            "address": "0x73d5DBF81A4f3bFa7b335e6a2d4638D6017a4fA8"
+          },
+          {
+            "address": "0x3942F7B55094250644cFfDa7160226Caa349A38E"
+          },
+          {
+            "address": "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d"
+          },
+          {
+            "address": "0x2Ed473F528E5B320f850d17ADfe0e558f0298aA9"
+          },
+          {
+            "address": "0x466CeD3b33045Ea986B2f306C8D0aA8067961CF8"
+          },
+          {
+            "address": "0x34C91651A070664279866E5f3d6B4d5F65cbbFFb"
+          },
+          {
+            "address": "0x2A73e899389cABa2a2f648BaBA35e67f5C00EFee"
+          },
+          {
+            "address": "0xED18de5442297a4Ec1ce59C7c7d9427Adc2A012b"
+          },
+          {
+            "address": "0xd5C47D2383Fddc19596489280C0A33AC42b2bB18"
+          },
+          {
+            "address": "0x6875e4A945E498FE1B90BbB13CFbAF0b68658C9C"
+          },
+          {
+            "address": "0xfd6Df9EFACfEfdF4E610d687A9c9b941D1b1Bf75"
+          },
+          {
+            "address": "0x539fd510fE352CC81822a222F821c340133Ed41C"
+          },
+          {
+            "address": "0x2b3EC64160F658fFe7061769415Ff080fca80BbA"
+          },
+          {
+            "address": "0x438C7dBA7d355aA0c77459AF38B2E62f9f9EccBf"
+          }
+        ],
+        "56": [
+          {
+            "address": "0x1FcCC097db89A86Bfc474A1028F93958295b1Fb7"
+          },
+          {
+            "address": "0xd77E9062c6DF3F2d1CB5Bf45855fa1E7712A059e"
+          },
+          {
+            "address": "0xA06627d9884996BC27a7c20fDA94FC94C13aa9Ec"
+          },
+          {
+            "address": "0xE6F0489ED91dc27f40f9dbe8f81fccbFC16b9cb1"
+          },
+          {
+            "address": "0xb3Ed0A426155B79B898849803E3B36552f7ED507"
+          },
+          {
+            "address": "0x3c2269811836af69497E5F486A85D7316753cf62"
+          },
+          {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+          },
+          {
+            "address": "0xdf7083f2A0F8a191ab5eEAFebE92ED21cD3Dd915"
+          },
+          {
+            "address": "0xeea6F790F18563E91b18DF00B89d9f79b2E6761F"
+          },
+          {
+            "address": "0x0E669e08bd717d7F9c9DE158636BD8561295fbB5"
+          },
+          {
+            "address": "0x2aD631F72fB16d91c4953A7f4260A97C2fE2f31e"
+          },
+          {
+            "address": "0xa2530b4cfBF271e2B409A05C2CE520e4cB5fCc88"
+          },
+          {
+            "address": "0x2bEa6BfD8fbFF45aA2a893EB3B6d85D10EFcC70E"
+          },
+          {
+            "address": "0x888888888889758F76e7103c6CbF23ABbF58F946"
+          },
+          {
+            "address": "0x663C21103915B68e9dA797CfdF3cAb01a037D5Ff"
+          },
+          {
+            "address": "0xd8D200d9A713A1c71cF1e7F694B14E5F1D948b15"
+          },
+          {
+            "address": "0x4a03Ce0a268951d04E187B1CF48075eE69266e27"
+          },
+          {
+            "address": "0x373Dba2055Ad40cb4815148bC47cd1DC16e92E44"
+          },
+          {
+            "address": "0x852e59252c94716F0df19B52b36512f6C9297a96"
+          },
+          {
+            "address": "0x997FBC511a8Ad11F84a400feACD66E2A3fa805d2"
+          },
+          {
+            "address": "0x6a0Ed0A9193FCBe7ae9B0F3D90F88e365Cca64fC"
+          },
+          {
+            "address": "0x2700ADB035F82a11899ce1D3f1BF8451c296eABb"
+          },
+          {
+            "address": "0xd4e9B0d466789d7F6201442eecCBA6a75A552db0"
+          },
+          {
+            "address": "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2"
+          },
+          {
+            "address": "0x40Ae6da2d92aa3DCb7f8d7a7209FD12BDfcb7C85"
+          },
+          {
+            "address": "0xC40fEbF5A33b8C92B187d9be0fD3fe0ac2E4B07c"
+          },
+          {
+            "address": "0xdb6380041441A94050199b4A46771D8d93553509"
+          },
+          {
+            "address": "0x7D20e644D2A9e149e5be9bE9aD2aB243a7835d37"
+          },
+          {
+            "address": "0xE006760020384A20774Dea977C313EF5F51FE17D"
+          },
+          {
+            "address": "0x7C7f73f7a320364DBB3C9aAa9bCcd402040EE0f9"
+          },
+          {
+            "address": "0xF536323e5825dCb1Bc9b4DE74D63111189532b5f"
+          },
+          {
+            "address": "0x000000000000c9B3E2C3Ec88B1B4c0cD853f4321"
+          },
+          {
+            "address": "0xA28c08f165116587D4F3E708743B4dEe155c5E64"
+          },
+          {
+            "address": "0x73d5DBF81A4f3bFa7b335e6a2d4638D6017a4fA8"
+          },
+          {
+            "address": "0x2Ed473F528E5B320f850d17ADfe0e558f0298aA9"
+          },
+          {
+            "address": "0x466CeD3b33045Ea986B2f306C8D0aA8067961CF8"
+          },
+          {
+            "address": "0x34C91651A070664279866E5f3d6B4d5F65cbbFFb"
+          },
+          {
+            "address": "0x3942F7B55094250644cFfDa7160226Caa349A38E"
+          },
+          {
+            "address": "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d"
+          },
+          {
+            "address": "0x2A73e899389cABa2a2f648BaBA35e67f5C00EFee"
+          },
+          {
+            "address": "0x998CF52b2585e05494BF9F2bF502351a9C7FdA8f"
+          },
+          {
+            "address": "0x8A09574b0401A856d89d1b583eE22E8cb0C5530B"
+          },
+          {
+            "address": "0x704478Dd72FD7F9B83d1F1e0fc18C14B54F034d0"
+          },
+          {
+            "address": "0xfd6Df9EFACfEfdF4E610d687A9c9b941D1b1Bf75"
+          },
+          {
+            "address": "0x539fd510fE352CC81822a222F821c340133Ed41C"
+          },
+          {
+            "address": "0xed18de5442297a4ec1ce59c7c7d9427adc2a012b"
+          },
+          {
+            "address": "0x2b3EC64160F658fFe7061769415Ff080fca80BbA"
+          },
+          {
+            "address": "0x438C7dBA7d355aA0c77459AF38B2E62f9f9EccBf"
+          }
+        ],
+        "146": [
+          {
+            "address": "0x1FcCC097db89A86Bfc474A1028F93958295b1Fb7"
+          },
+          {
+            "address": "0xCbcb48e22622a3778b6F14C2f5d258Ba026b05e6"
+          },
+          {
+            "address": "0x7877adfaded756f3248a0ebfe8ac2e2ef87b75ac"
+          },
+          {
+            "address": "0xE6F0489ED91dc27f40f9dbe8f81fccbFC16b9cb1"
+          },
+          {
+            "address": "0xf1eF7d2D4C0c881cd634481e0586ed5d2871A74B"
+          },
+          {
+            "address": "0xb6319cC6c8c27A8F5dAF0dD3DF91EA35C4720dd7"
+          },
+          {
+            "address": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38"
+          },
+          {
+            "address": "0xeea6F790F18563E91b18DF00B89d9f79b2E6761F"
+          },
+          {
+            "address": "0x6952Eb0c152D683ea2F2B8B90a5E888c1550B69D"
+          },
+          {
+            "address": "0x2aD631F72fB16d91c4953A7f4260A97C2fE2f31e"
+          },
+          {
+            "address": "0x888888888889758F76e7103c6CbF23ABbF58F946"
+          },
+          {
+            "address": "0x663C21103915B68e9dA797CfdF3cAb01a037D5Ff"
+          },
+          {
+            "address": "0xd8D200d9A713A1c71cF1e7F694B14E5F1D948b15"
+          },
+          {
+            "address": "0x4a03Ce0a268951d04E187B1CF48075eE69266e27"
+          },
+          {
+            "address": "0x373Dba2055Ad40cb4815148bC47cd1DC16e92E44"
+          },
+          {
+            "address": "0x852e59252c94716F0df19B52b36512f6C9297a96"
+          },
+          {
+            "address": "0x7b78F36aBf6cF3C6C0dd54716dFeF0607ae17846"
+          },
+          {
+            "address": "0xdED51dca2ECED7a0BAab3D9711A87f214769Da0f"
+          },
+          {
+            "address": "0x0013ACc071f732fd6BF8210AB46A3794a7D8945e"
+          },
+          {
+            "address": "0xd4e9B0d466789d7F6201442eecCBA6a75A552db0"
+          },
+          {
+            "address": "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2"
+          },
+          {
+            "address": "0x73d5DBF81A4f3bFa7b335e6a2d4638D6017a4fA8"
+          },
+          {
+            "address": "0x000000000000c9B3E2C3Ec88B1B4c0cD853f4321"
+          },
+          {
+            "address": "0x0582D93FD9c9d42f26bE5D86a5f75291F92102C2"
+          },
+          {
+            "address": "0xFeE31A6eC6eBefa0b5A594Bf5b1139e3c6fAA0fB"
+          },
+          {
+            "address": "0x0b692f06CA82e3075dC537224450885Fd138e655"
+          },
+          {
+            "address": "0xA28c08f165116587D4F3E708743B4dEe155c5E64"
+          },
+          {
+            "address": "0x2Ed473F528E5B320f850d17ADfe0e558f0298aA9"
+          },
+          {
+            "address": "0x466CeD3b33045Ea986B2f306C8D0aA8067961CF8"
+          },
+          {
+            "address": "0x3209E9412cca80B18338f2a56ADA59c484c39644"
+          },
+          {
+            "address": "0xE017CCC08505Ac8fbb5a364680e459d9fBaEE74d"
+          },
+          {
+            "address": "0xeE708FC793a02F1eDd5BB9DBD7fD13010D1F7136"
+          },
+          {
+            "address": "0x34C91651A070664279866E5f3d6B4d5F65cbbFFb"
+          },
+          {
+            "address": "0x3942F7B55094250644cFfDa7160226Caa349A38E"
+          },
+          {
+            "address": "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d"
+          },
+          {
+            "address": "0x0000000000000000000000000000000000000000"
+          },
+          {
+            "address": "0x1ca3352a55A3D69cA8e5aB06006e08aaF2bD09f1"
+          },
+          {
+            "address": "0x82Fae57b2A79D893D88488A7D8BdF2AC6bd2C463"
+          },
+          {
+            "address": "0xc23Dd2807e51dd1D317e1321CBeEb9ace98531EE"
+          },
+          {
+            "address": "0x251CfB4E84CefecA6c1e6a4D8a0cb9c524e7484f"
+          }
+        ],
+        "5000": [
+          {
+            "address": "0x1FcCC097db89A86Bfc474A1028F93958295b1Fb7"
+          },
+          {
+            "address": "0x5C30d3578A4D07a340650a76B9Ae5dF20D5bdF55"
+          },
+          {
+            "address": "0x9F72a06084EdD040E973C32Bf026b1ACf65db9aB"
+          },
+          {
+            "address": "0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729"
+          },
+          {
+            "address": "0xE6F0489ED91dc27f40f9dbe8f81fccbFC16b9cb1"
+          },
+          {
+            "address": "0xb6319cC6c8c27A8F5dAF0dD3DF91EA35C4720dd7"
+          },
+          {
+            "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8"
+          },
+          {
+            "address": "0xeea6F790F18563E91b18DF00B89d9f79b2E6761F"
+          },
+          {
+            "address": "0x3d622b0ac50552d6283C7efE6EAdfc98aD0f6cB7"
+          },
+          {
+            "address": "0x2aD631F72fB16d91c4953A7f4260A97C2fE2f31e"
+          },
+          {
+            "address": "0x888888888889758F76e7103c6CbF23ABbF58F946"
+          },
+          {
+            "address": "0x663C21103915B68e9dA797CfdF3cAb01a037D5Ff"
+          },
+          {
+            "address": "0xd8D200d9A713A1c71cF1e7F694B14E5F1D948b15"
+          },
+          {
+            "address": "0x4a03Ce0a268951d04E187B1CF48075eE69266e27"
+          },
+          {
+            "address": "0x373Dba2055Ad40cb4815148bC47cd1DC16e92E44"
+          },
+          {
+            "address": "0x852e59252c94716F0df19B52b36512f6C9297a96"
+          },
+          {
+            "address": "0x997FBC511a8Ad11F84a400feACD66E2A3fa805d2"
+          },
+          {
+            "address": "0x6a0Ed0A9193FCBe7ae9B0F3D90F88e365Cca64fC"
+          },
+          {
+            "address": "0xCAd502Bb55d1A3F79952F969BFF3f011CF30a94a"
+          },
+          {
+            "address": "0xd4e9B0d466789d7F6201442eecCBA6a75A552db0"
+          },
+          {
+            "address": "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2"
+          },
+          {
+            "address": "0x964840644B88C583500F473E4B829Ab629aF96A8"
+          },
+          {
+            "address": "0xD228EC1f7D4313fe321fab511A872475D07F5bA6"
+          },
+          {
+            "address": "0x5256e5dbe627e696b2e54eb77c2227276D80cd3c"
+          },
+          {
+            "address": "0xCa274A44a52241c1a8EFb9f84Bf492D8363929FC"
+          },
+          {
+            "address": "0x5dFBEAEa9e41f85c334075482A20afb7031207aE"
+          },
+          {
+            "address": "0xcb02435716b0143D4Ac1BDf370302D619E714126"
+          },
+          {
+            "address": "0x553dCDd1297058B2b2E05779FC5Ec3d5225376Ce"
+          },
+          {
+            "address": "0x6E716B682D0b63E7BF2C7b1cD20F2Fc2F3596fc7"
+          },
+          {
+            "address": "0x000000000000c9B3E2C3Ec88B1B4c0cD853f4321"
+          },
+          {
+            "address": "0xA28c08f165116587D4F3E708743B4dEe155c5E64"
+          },
+          {
+            "address": "0x73d5DBF81A4f3bFa7b335e6a2d4638D6017a4fA8"
+          },
+          {
+            "address": "0x2Ed473F528E5B320f850d17ADfe0e558f0298aA9"
+          },
+          {
+            "address": "0x466CeD3b33045Ea986B2f306C8D0aA8067961CF8"
+          },
+          {
+            "address": "0xf799E4c029d14f41Dc1918C9A4C67242F565710e"
+          },
+          {
+            "address": "0x30c6d4e892871220B5Ab66c10db577da96Fb974b"
+          },
+          {
+            "address": "0x428f2f93afAc3F96B0DE59854038c585e06165C8"
+          },
+          {
+            "address": "0x34C91651A070664279866E5f3d6B4d5F65cbbFFb"
+          },
+          {
+            "address": "0x3942F7B55094250644cFfDa7160226Caa349A38E"
+          },
+          {
+            "address": "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d"
+          },
+          {
+            "address": "0x2A73e899389cABa2a2f648BaBA35e67f5C00EFee"
+          },
+          {
+            "address": "0xfd6Df9EFACfEfdF4E610d687A9c9b941D1b1Bf75"
+          },
+          {
+            "address": "0x539fd510fE352CC81822a222F821c340133Ed41C"
+          },
+          {
+            "address": "0xa87f7EeDD570943BcFFcE6D00B13D9a95ede8810"
+          },
+          {
+            "address": "0x2b3EC64160F658fFe7061769415Ff080fca80BbA"
+          },
+          {
+            "address": "0x438C7dBA7d355aA0c77459AF38B2E62f9f9EccBf"
+          }
+        ],
+        "8453": [
+          {
+            "address": "0x1FcCC097db89A86Bfc474A1028F93958295b1Fb7"
+          },
+          {
+            "address": "0xCbcb48e22622a3778b6F14C2f5d258Ba026b05e6"
+          },
+          {
+            "address": "0x7877AdFaDEd756f3248a0EBfe8Ac2E2eF87b75Ac"
+          },
+          {
+            "address": "0xE6F0489ED91dc27f40f9dbe8f81fccbFC16b9cb1"
+          },
+          {
+            "address": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E"
+          },
+          {
+            "address": "0xb6319cC6c8c27A8F5dAF0dD3DF91EA35C4720dd7"
+          },
+          {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          {
+            "address": "0xeea6F790F18563E91b18DF00B89d9f79b2E6761F"
+          },
+          {
+            "address": "0xf3f560164979fe7F8f3eb2b64669Eac00E7043A6"
+          },
+          {
+            "address": "0x2aD631F72fB16d91c4953A7f4260A97C2fE2f31e"
+          },
+          {
+            "address": "0x888888888889758F76e7103c6CbF23ABbF58F946"
+          },
+          {
+            "address": "0x663C21103915B68e9dA797CfdF3cAb01a037D5Ff"
+          },
+          {
+            "address": "0xd8D200d9A713A1c71cF1e7F694B14E5F1D948b15"
+          },
+          {
+            "address": "0x4a03Ce0a268951d04E187B1CF48075eE69266e27"
+          },
+          {
+            "address": "0x373Dba2055Ad40cb4815148bC47cd1DC16e92E44"
+          },
+          {
+            "address": "0x852e59252c94716F0df19B52b36512f6C9297a96"
+          },
+          {
+            "address": "0x997FBC511a8Ad11F84a400feACD66E2A3fa805d2"
+          },
+          {
+            "address": "0x6a0Ed0A9193FCBe7ae9B0F3D90F88e365Cca64fC"
+          },
+          {
+            "address": "0xB4205a645c7e920BD8504181B1D7f2c5C955C3e7"
+          },
+          {
+            "address": "0xd4e9B0d466789d7F6201442eecCBA6a75A552db0"
+          },
+          {
+            "address": "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2"
+          },
+          {
+            "address": "0x963ddBB35c1AE44e2a159E3b5fb5177E0B32660d"
+          },
+          {
+            "address": "0x59968008a703dC13E6beaECed644bdCe4ee45d13"
+          },
+          {
+            "address": "0x8D77771fA2518474cc83a613ef3d6140A84dbe56"
+          },
+          {
+            "address": "0x000000000000c9B3E2C3Ec88B1B4c0cD853f4321"
+          },
+          {
+            "address": "0xA28c08f165116587D4F3E708743B4dEe155c5E64"
+          },
+          {
+            "address": "0x73d5DBF81A4f3bFa7b335e6a2d4638D6017a4fA8"
+          },
+          {
+            "address": "0x2Ed473F528E5B320f850d17ADfe0e558f0298aA9"
+          },
+          {
+            "address": "0x466CeD3b33045Ea986B2f306C8D0aA8067961CF8"
+          },
+          {
+            "address": "0x34C91651A070664279866E5f3d6B4d5F65cbbFFb"
+          },
+          {
+            "address": "0x3942F7B55094250644cFfDa7160226Caa349A38E"
+          },
+          {
+            "address": "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d"
+          },
+          {
+            "address": "0x2A73e899389cABa2a2f648BaBA35e67f5C00EFee"
+          },
+          {
+            "address": "0xeE708FC793a02F1eDd5BB9DBD7fD13010D1F7136"
+          },
+          {
+            "address": "0x051dcd6a80f11fE68F77Fb0EBdE03853FA96B1fD"
+          },
+          {
+            "address": "0x17F100fB4bE2707675c6439468d38249DD993d58"
+          },
+          {
+            "address": "0xfd6Df9EFACfEfdF4E610d687A9c9b941D1b1Bf75"
+          },
+          {
+            "address": "0x539fd510fE352CC81822a222F821c340133Ed41C"
+          },
+          {
+            "address": "0x2b3EC64160F658fFe7061769415Ff080fca80BbA"
+          },
+          {
+            "address": "0x438C7dBA7d355aA0c77459AF38B2E62f9f9EccBf"
+          }
+        ],
+        "42161": [
+          {
+            "address": "0x1FcCC097db89A86Bfc474A1028F93958295b1Fb7"
+          },
+          {
+            "address": "0xCbcb48e22622a3778b6F14C2f5d258Ba026b05e6"
+          },
+          {
+            "address": "0x7877AdFaDEd756f3248a0EBfe8Ac2E2eF87b75Ac"
+          },
+          {
+            "address": "0x3c0f8F070E6400C1C4eD10CfF85dE4c643b66bd3"
+          },
+          {
+            "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8"
+          },
+          {
+            "address": "0x3c2269811836af69497E5F486A85D7316753cf62"
+          },
+          {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          {
+            "address": "0x7F6A486BbfAB887E24Df2b10eeF4E2ac9E34Dd46"
+          },
+          {
+            "address": "0xeea6F790F18563E91b18DF00B89d9f79b2E6761F"
+          },
+          {
+            "address": "0x29deaEE5413a07C933C15B37d7deB6Eb744Ba9C8"
+          },
+          {
+            "address": "0x2aD631F72fB16d91c4953A7f4260A97C2fE2f31e"
+          },
+          {
+            "address": "0x28dE02Ac3c3F5ef427e55c321F73fDc7F192e8E4"
+          },
+          {
+            "address": "0xf5a7De2D276dbda3EEf1b62A9E718EFf4d29dDC8"
+          },
+          {
+            "address": "0x888888888889758F76e7103c6CbF23ABbF58F946"
+          },
+          {
+            "address": "0x663C21103915B68e9dA797CfdF3cAb01a037D5Ff"
+          },
+          {
+            "address": "0xd8D200d9A713A1c71cF1e7F694B14E5F1D948b15"
+          },
+          {
+            "address": "0x4a03Ce0a268951d04E187B1CF48075eE69266e27"
+          },
+          {
+            "address": "0x373Dba2055Ad40cb4815148bC47cd1DC16e92E44"
+          },
+          {
+            "address": "0x852e59252c94716F0df19B52b36512f6C9297a96"
+          },
+          {
+            "address": "0x997FBC511a8Ad11F84a400feACD66E2A3fa805d2"
+          },
+          {
+            "address": "0x6a0Ed0A9193FCBe7ae9B0F3D90F88e365Cca64fC"
+          },
+          {
+            "address": "0xAdB09F65bd90d19e3148D9ccb693F3161C6DB3E8"
+          },
+          {
+            "address": "0xd4e9B0d466789d7F6201442eecCBA6a75A552db0"
+          },
+          {
+            "address": "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2"
+          },
+          {
+            "address": "0xEb38531db128EcA928aea1B1CE9E5609B15ba146"
+          },
+          {
+            "address": "0x2FCb47B58350cD377f94d3821e7373Df60bD9Ced"
+          },
+          {
+            "address": "0xc7F8F9F1DdE1104664b6fC8F33E49b169C12F41E"
+          },
+          {
+            "address": "0xd9f5e9589016da862D2aBcE980A5A5B99A94f3E8"
+          },
+          {
+            "address": "0xFF29e023910FB9bfc86729c1050AF193A45a0C0c"
+          },
+          {
+            "address": "0xd29e76c6F15ada0150D10A1D3f45aCCD2098283B"
+          },
+          {
+            "address": "0xEE2eF4ADaf5Bd61FD107fD169CAe3AB79958B928"
+          },
+          {
+            "address": "0x000000000000c9B3E2C3Ec88B1B4c0cD853f4321"
+          },
+          {
+            "address": "0xA28c08f165116587D4F3E708743B4dEe155c5E64"
+          },
+          {
+            "address": "0x73d5DBF81A4f3bFa7b335e6a2d4638D6017a4fA8"
+          },
+          {
+            "address": "0x3942F7B55094250644cFfDa7160226Caa349A38E"
+          },
+          {
+            "address": "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d"
+          },
+          {
+            "address": "0x2Ed473F528E5B320f850d17ADfe0e558f0298aA9"
+          },
+          {
+            "address": "0x466CeD3b33045Ea986B2f306C8D0aA8067961CF8"
+          },
+          {
+            "address": "0x34C91651A070664279866E5f3d6B4d5F65cbbFFb"
+          },
+          {
+            "address": "0x2A73e899389cABa2a2f648BaBA35e67f5C00EFee"
+          },
+          {
+            "address": "0xC9215ae9EC67385F38C755D862C8eE3702B5793A"
+          },
+          {
+            "address": "0x3209E9412cca80B18338f2a56ADA59c484c39644"
+          },
+          {
+            "address": "0x1e56299ebc8a1010cec26005d12e3e5c5cc2db00"
+          },
+          {
+            "address": "0x23a102e78D1FF1645a3666691495174764a5FCAF"
+          },
+          {
+            "address": "0xfd6Df9EFACfEfdF4E610d687A9c9b941D1b1Bf75"
+          },
+          {
+            "address": "0x539fd510fE352CC81822a222F821c340133Ed41C"
+          },
+          {
+            "address": "0x704478Dd72FD7F9B83d1F1e0fc18C14B54F034d0"
+          },
+          {
+            "address": "0x2b3EC64160F658fFe7061769415Ff080fca80BbA"
+          },
+          {
+            "address": "0x438C7dBA7d355aA0c77459AF38B2E62f9f9EccBf"
+          }
+        ],
+        "80094": [
+          {
+            "address": "0x1FcCC097db89A86Bfc474A1028F93958295b1Fb7"
+          },
+          {
+            "address": "0xCbcb48e22622a3778b6F14C2f5d258Ba026b05e6"
+          },
+          {
+            "address": "0x7877adfaded756f3248a0ebfe8ac2e2ef87b75ac"
+          },
+          {
+            "address": "0xE6F0489ED91dc27f40f9dbe8f81fccbFC16b9cb1"
+          },
+          {
+            "address": "0xFf9c599D51C407A45D631c6e89cB047Efb88AeF6"
+          },
+          {
+            "address": "0xb6319cC6c8c27A8F5dAF0dD3DF91EA35C4720dd7"
+          },
+          {
+            "address": "0x6969696969696969696969696969696969696969"
+          },
+          {
+            "address": "0xeea6F790F18563E91b18DF00B89d9f79b2E6761F"
+          },
+          {
+            "address": "0x4d717868F4Bd14ac8B29Bb6361901e30Ae05e340"
+          },
+          {
+            "address": "0x2aD631F72fB16d91c4953A7f4260A97C2fE2f31e"
+          },
+          {
+            "address": "0x888888888889758F76e7103c6CbF23ABbF58F946"
+          },
+          {
+            "address": "0x663C21103915B68e9dA797CfdF3cAb01a037D5Ff"
+          },
+          {
+            "address": "0xd8D200d9A713A1c71cF1e7F694B14E5F1D948b15"
+          },
+          {
+            "address": "0x4a03Ce0a268951d04E187B1CF48075eE69266e27"
+          },
+          {
+            "address": "0x373Dba2055Ad40cb4815148bC47cd1DC16e92E44"
+          },
+          {
+            "address": "0x852e59252c94716F0df19B52b36512f6C9297a96"
+          },
+          {
+            "address": "0x7b78F36aBf6cF3C6C0dd54716dFeF0607ae17846"
+          },
+          {
+            "address": "0xdED51dca2ECED7a0BAab3D9711A87f214769Da0f"
+          },
+          {
+            "address": "0x6813d43782395A1F2AAb42f39aeEDE03ac655e09"
+          },
+          {
+            "address": "0xd4e9B0d466789d7F6201442eecCBA6a75A552db0"
+          },
+          {
+            "address": "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2"
+          },
+          {
+            "address": "0x2bEa6BfD8fbFF45aA2a893EB3B6d85D10EFcC70E"
+          },
+          {
+            "address": "0x8A09574b0401A856d89d1b583eE22E8cb0C5530B"
+          },
+          {
+            "address": "0x96F77F24b3d17166FcaF3a9E3B8330fF38B966F9"
+          },
+          {
+            "address": "0x000000000000c9B3E2C3Ec88B1B4c0cD853f4321"
+          },
+          {
+            "address": "0xA28c08f165116587D4F3E708743B4dEe155c5E64"
+          },
+          {
+            "address": "0x73d5DBF81A4f3bFa7b335e6a2d4638D6017a4fA8"
+          },
+          {
+            "address": "0x2Ed473F528E5B320f850d17ADfe0e558f0298aA9"
+          },
+          {
+            "address": "0x466CeD3b33045Ea986B2f306C8D0aA8067961CF8"
+          },
+          {
+            "address": "0x34C91651A070664279866E5f3d6B4d5F65cbbFFb"
+          },
+          {
+            "address": "0x3942F7B55094250644cFfDa7160226Caa349A38E"
+          },
+          {
+            "address": "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d"
+          },
+          {
+            "address": "0x0000000000000000000000000000000000000000"
+          },
+          {
+            "address": "0xd5C47D2383Fddc19596489280C0A33AC42b2bB18"
+          },
+          {
+            "address": "0x6875e4A945E498FE1B90BbB13CFbAF0b68658C9C"
+          },
+          {
+            "address": "0x704478Dd72FD7F9B83d1F1e0fc18C14B54F034d0"
+          },
+          {
+            "address": "0x1ca3352a55A3D69cA8e5aB06006e08aaF2bD09f1"
+          },
+          {
+            "address": "0x82Fae57b2A79D893D88488A7D8BdF2AC6bd2C463"
+          },
+          {
+            "address": "0xc23Dd2807e51dd1D317e1321CBeEb9ace98531EE"
+          },
+          {
+            "address": "0x251CfB4E84CefecA6c1e6a4D8a0cb9c524e7484f"
+          }
+        ]
+      },
+      "createdAt": 1746612282004,
+      "updatedAt": 1746612659174,
+      "excluded": false
     }
   ],
   "addressMap": {
@@ -1545,7 +3283,69 @@
       "0xf2fa332bd83149c66b09b45670bce64746c6b439": "ethena",
       "0x57e114b691db790c35207b2e685d4a43181e6061": "ethena",
       "0x8be3460a480c80728a8c4d7a5d5303c85ba7b3b9": "ethena",
-      "0xc65433845ecd16688eda196497fa9130d6c47bd8": "ethena"
+      "0xc65433845ecd16688eda196497fa9130d6c47bd8": "ethena",
+      "0x4d7e09f73843bd4735aaf7a74b6d877bac75a531": "euler",
+      "0x0d52d06ceb8dcdeeb40cfd9f17489b350dd7f8a3": "euler",
+      "0x29a56a1b8214d9cf7c5561811750d5cbdb45cc8e": "euler",
+      "0x8ff1c814719096b61abf00bb46ead0c9a529dd7d": "euler",
+      "0x9a20d3c0c283646e9701a049a2f8c152bc1e3427": "euler",
+      "0xba42141648dfd74388f3541c1d80fa9387043da9": "euler",
+      "0x0c9a3dd6b8f28529d72d7f9ce918d493519ee383": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x4cd6bf1d183264c02be7748cb5cd3a47d013351b": "euler",
+      "0xeaddd21618ad5deb412d3fd23580fd461c106b54": "euler",
+      "0x1fccc097db89a86bfc474a1028f93958295b1fb7": "pendle",
+      "0x8270400d528c34e1596ef367eedec99080a1b592": "pendle",
+      "0x8119ec16f0573b7dac7c0cb94eb504fb32456ee1": "pendle",
+      "0xe6f0489ed91dc27f40f9dbe8f81fccbfc16b9cb1": "pendle",
+      "0x808507121b80c02388fad14726482e061b8da827": "pendle",
+      "0x66a71dcef29a0ffbdbe3c6a460a3b5bc225cd675": "pendle",
+      "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "pendle",
+      "0x248087c69e72e211b7264720bf6cc5a954f98cde": "pendle",
+      "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "pendle",
+      "0x35878c2cff38cc4032e85283183428170ba618a2": "pendle",
+      "0x2ad631f72fb16d91c4953a7f4260a97c2fe2f31e": "pendle",
+      "0x70ee0a6db4f5a2dc4d9c0b57be97b9987e75bafd": "pendle",
+      "0x27b1dacd74688af24a64bd3c9c1b143118740784": "pendle",
+      "0x888888888889758f76e7103c6cbf23abbf58f946": "pendle",
+      "0x663c21103915b68e9da797cfdf3cab01a037d5ff": "pendle",
+      "0xd8d200d9a713a1c71cf1e7f694b14e5f1d948b15": "pendle",
+      "0x4a03ce0a268951d04e187b1cf48075ee69266e27": "pendle",
+      "0x373dba2055ad40cb4815148bc47cd1dc16e92e44": "pendle",
+      "0x852e59252c94716f0df19b52b36512f6c9297a96": "pendle",
+      "0x997fbc511a8ad11f84a400feacd66e2a3fa805d2": "pendle",
+      "0x6a0ed0a9193fcbe7ae9b0f3d90f88e365cca64fc": "pendle",
+      "0x263833d47ea3fa4a30f269323aba6a107f9eb14c": "pendle",
+      "0xd4e9b0d466789d7f6201442eeccba6a75a552db0": "pendle",
+      "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2": "pendle",
+      "0xdf3601014686674e53d1fa52f7602525483f9122": "pendle",
+      "0x1a6fcc85557bc4fb7b534ed835a03ef056552d52": "pendle",
+      "0x273b4bfa3bb30fe8f32c467b5f0046834557f072": "pendle",
+      "0x3d75bd20c983edb5fd218a1b7e0024f1056c7a2f": "pendle",
+      "0x35a338522a435d46f77be32c70e215b813d0e3ac": "pendle",
+      "0x6fcf753f2c67b83f7b09746bbc4fa0047b35d050": "pendle",
+      "0x4df98410c95737fd646d2413ac6cafc1c04834b9": "pendle",
+      "0xf642d8daa026b8aed6dfe82facba2e077af199e2": "pendle",
+      "0x000000000000c9b3e2c3ec88b1b4c0cd853f4321": "pendle",
+      "0xa28c08f165116587d4f3e708743b4dee155c5e64": "pendle",
+      "0x73d5dbf81a4f3bfa7b335e6a2d4638d6017a4fa8": "pendle",
+      "0x2ed473f528e5b320f850d17adfe0e558f0298aa9": "pendle",
+      "0x466ced3b33045ea986b2f306c8d0aa8067961cf8": "pendle",
+      "0x34c91651a070664279866e5f3d6b4d5f65cbbffb": "pendle",
+      "0x2a73e899389caba2a2f648baba35e67f5c00efee": "pendle",
+      "0x4f30a9d41b80ecc5b94306ab4364951ae3170210": "pendle",
+      "0x07b1014c88f14c9e910092526db57a20052e989f": "pendle",
+      "0x44087e105137a5095c008aab6a6530182821f2f0": "pendle",
+      "0x47d74516b33ed5d70dde7119a40839f6fcc24e57": "pendle",
+      "0x3942f7b55094250644cffda7160226caa349a38e": "pendle",
+      "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d": "pendle",
+      "0xd7b34a6fdcb2a7ced2115ff7f5fdd72aa6aa4de2": "pendle",
+      "0x8c237520a8e14d658170a633d96f8e80764433b9": "pendle",
+      "0xfd6df9efacfefdf4e610d687a9c9b941d1b1bf75": "pendle",
+      "0x539fd510fe352cc81822a222f821c340133ed41c": "pendle",
+      "0x43d03031fab845065e9cefe89dd122d63f72011f": "pendle",
+      "0x2b3ec64160f658ffe7061769415ff080fca80bba": "pendle",
+      "0x438c7dba7d355aa0c77459af38b2e62f9f9eccbf": "pendle"
     },
     "10": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
@@ -1559,7 +3359,64 @@
       "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
       "0x15392211222b46a0ea85a9a800830486d144848d": "magpie",
       "0x521b4c065bbdbe3e20b3727340730936912dfa46": "walletconnect",
-      "0xef4461891dfb3ac8572ccf7c794664a8dd927945": "walletconnect"
+      "0xef4461891dfb3ac8572ccf7c794664a8dd927945": "walletconnect",
+      "0xf932863e538af568df9c79da379fd8ffd8525342": "euler",
+      "0x9f1942a30dd99896945ff544be68c8ce790ecb57": "euler",
+      "0x7943231a109703937bb7fb3d4dfb55d824dede99": "euler",
+      "0x94b14e4678b08c3ee93ca8611672270575f9ead8": "euler",
+      "0x317ccf92beec1b5487c387aefacc54f2992165ce": "euler",
+      "0x29c865d1435c3d25feb7865837e4ebf63d609e65": "euler",
+      "0xbfb28650cd13ce879e7d56569ed4715c299823e4": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0xaece407af2dbcd0b6c5fb522744cce6beac6fb72": "euler",
+      "0xb8551503651ffb86371e750802d4094f7435758a": "euler",
+      "0x1fccc097db89a86bfc474a1028f93958295b1fb7": "pendle",
+      "0xe972d450ec5b11b99d97760422e0e054afbc8042": "pendle",
+      "0xa06c863fcf17ca6f24aa81aea75e23953193ff6a": "pendle",
+      "0x79d7a5e8b130eef1e022b3edee4daf226dc168ca": "pendle",
+      "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1": "pendle",
+      "0x3c2269811836af69497e5f486a85d7316753cf62": "pendle",
+      "0x4200000000000000000000000000000000000006": "pendle",
+      "0x2a6345a058ca9fc8a2cf35d83ec9005119c4f474": "pendle",
+      "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "pendle",
+      "0x9a5af6a35bb56443c577d57c303cda39f56dd173": "pendle",
+      "0x2ad631f72fb16d91c4953a7f4260a97c2fe2f31e": "pendle",
+      "0xf5a7de2d276dbda3eef1b62a9e718eff4d29ddc8": "pendle",
+      "0x17f100fb4be2707675c6439468d38249dd993d58": "pendle",
+      "0x888888888889758f76e7103c6cbf23abbf58f946": "pendle",
+      "0x663c21103915b68e9da797cfdf3cab01a037d5ff": "pendle",
+      "0xd8d200d9a713a1c71cf1e7f694b14e5f1d948b15": "pendle",
+      "0x4a03ce0a268951d04e187b1cf48075ee69266e27": "pendle",
+      "0x373dba2055ad40cb4815148bc47cd1dc16e92e44": "pendle",
+      "0x852e59252c94716f0df19b52b36512f6c9297a96": "pendle",
+      "0x997fbc511a8ad11f84a400feacd66e2a3fa805d2": "pendle",
+      "0x6a0ed0a9193fcbe7ae9b0f3d90f88e365cca64fc": "pendle",
+      "0x704478dd72fd7f9b83d1f1e0fc18c14b54f034d0": "pendle",
+      "0xd4e9b0d466789d7f6201442eeccba6a75a552db0": "pendle",
+      "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2": "pendle",
+      "0xfa6b22fc4c3ad88b68c16b3061a16b1714f6bd57": "pendle",
+      "0x4a2b38b9cbd83c86f261a4d64c243795d4d44abc": "pendle",
+      "0xf799e4c029d14f41dc1918c9a4c67242f565710e": "pendle",
+      "0x73be47237f12f36203823bac9a4d80dc798b7015": "pendle",
+      "0xcca0977ea3809c8fb785737eb9facd5b19626e81": "pendle",
+      "0x02adf72d5d06a9c92136562eb237c07696833a84": "pendle",
+      "0x439b4d66255eff74e621fbacb00d7162b588ff4b": "pendle",
+      "0x000000000000c9b3e2c3ec88b1b4c0cd853f4321": "pendle",
+      "0xa28c08f165116587d4f3e708743b4dee155c5e64": "pendle",
+      "0x73d5dbf81a4f3bfa7b335e6a2d4638d6017a4fa8": "pendle",
+      "0x3942f7b55094250644cffda7160226caa349a38e": "pendle",
+      "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d": "pendle",
+      "0x2ed473f528e5b320f850d17adfe0e558f0298aa9": "pendle",
+      "0x466ced3b33045ea986b2f306c8d0aa8067961cf8": "pendle",
+      "0x34c91651a070664279866e5f3d6b4d5f65cbbffb": "pendle",
+      "0x2a73e899389caba2a2f648baba35e67f5c00efee": "pendle",
+      "0xed18de5442297a4ec1ce59c7c7d9427adc2a012b": "pendle",
+      "0xd5c47d2383fddc19596489280c0a33ac42b2bb18": "pendle",
+      "0x6875e4a945e498fe1b90bbb13cfbaf0b68658c9c": "pendle",
+      "0xfd6df9efacfefdf4e610d687a9c9b941d1b1bf75": "pendle",
+      "0x539fd510fe352cc81822a222f821c340133ed41c": "pendle",
+      "0x2b3ec64160f658ffe7061769415ff080fca80bba": "pendle",
+      "0x438c7dba7d355aa0c77459af38b2e62f9f9eccbf": "pendle"
     },
     "56": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
@@ -1574,13 +3431,93 @@
       "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
       "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e": "odos",
       "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
-      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie"
+      "0x15392211222b46a0ea85a9a800830486d144848d": "magpie",
+      "0x1633269308f154fbecbb15f91d72d2afa6af95b4": "euler",
+      "0x2d13c46fe6c8b6c9ad3c5a78ed51b26733cae350": "euler",
+      "0x7f53e2755eb3c43824e162f7f6f087832b9c9df6": "euler",
+      "0xb236413f1a8fd4c5d5545ecaac5e64ff686afe4e": "euler",
+      "0xd4fffc1e799e714aed1461c14e95f55b6b3390e8": "euler",
+      "0x8ff6da0a7c96f33690bd71f5507118033d2d7c25": "euler",
+      "0xb2e5a73cee08593d1a076a2ae7a6e02925a640ea": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0xf524f75ad063919b86d6c5d9242847a44337bfce": "euler",
+      "0x7fd287b3ae3bf2f6c9871a44b6d9de208b0abbe5": "euler",
+      "0x1fccc097db89a86bfc474a1028f93958295b1fb7": "pendle",
+      "0xd77e9062c6df3f2d1cb5bf45855fa1e7712a059e": "pendle",
+      "0xa06627d9884996bc27a7c20fda94fc94c13aa9ec": "pendle",
+      "0xe6f0489ed91dc27f40f9dbe8f81fccbfc16b9cb1": "pendle",
+      "0xb3ed0a426155b79b898849803e3b36552f7ed507": "pendle",
+      "0x3c2269811836af69497e5f486a85d7316753cf62": "pendle",
+      "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": "pendle",
+      "0xdf7083f2a0f8a191ab5eeafebe92ed21cd3dd915": "pendle",
+      "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "pendle",
+      "0x0e669e08bd717d7f9c9de158636bd8561295fbb5": "pendle",
+      "0x2ad631f72fb16d91c4953a7f4260a97c2fe2f31e": "pendle",
+      "0xa2530b4cfbf271e2b409a05c2ce520e4cb5fcc88": "pendle",
+      "0x2bea6bfd8fbff45aa2a893eb3b6d85d10efcc70e": "pendle",
+      "0x888888888889758f76e7103c6cbf23abbf58f946": "pendle",
+      "0x663c21103915b68e9da797cfdf3cab01a037d5ff": "pendle",
+      "0xd8d200d9a713a1c71cf1e7f694b14e5f1d948b15": "pendle",
+      "0x4a03ce0a268951d04e187b1cf48075ee69266e27": "pendle",
+      "0x373dba2055ad40cb4815148bc47cd1dc16e92e44": "pendle",
+      "0x852e59252c94716f0df19b52b36512f6c9297a96": "pendle",
+      "0x997fbc511a8ad11f84a400feacd66e2a3fa805d2": "pendle",
+      "0x6a0ed0a9193fcbe7ae9b0f3d90f88e365cca64fc": "pendle",
+      "0x2700adb035f82a11899ce1d3f1bf8451c296eabb": "pendle",
+      "0xd4e9b0d466789d7f6201442eeccba6a75a552db0": "pendle",
+      "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2": "pendle",
+      "0x40ae6da2d92aa3dcb7f8d7a7209fd12bdfcb7c85": "pendle",
+      "0xc40febf5a33b8c92b187d9be0fd3fe0ac2e4b07c": "pendle",
+      "0xdb6380041441a94050199b4a46771d8d93553509": "pendle",
+      "0x7d20e644d2a9e149e5be9be9ad2ab243a7835d37": "pendle",
+      "0xe006760020384a20774dea977c313ef5f51fe17d": "pendle",
+      "0x7c7f73f7a320364dbb3c9aaa9bccd402040ee0f9": "pendle",
+      "0xf536323e5825dcb1bc9b4de74d63111189532b5f": "pendle",
+      "0x000000000000c9b3e2c3ec88b1b4c0cd853f4321": "pendle",
+      "0xa28c08f165116587d4f3e708743b4dee155c5e64": "pendle",
+      "0x73d5dbf81a4f3bfa7b335e6a2d4638d6017a4fa8": "pendle",
+      "0x2ed473f528e5b320f850d17adfe0e558f0298aa9": "pendle",
+      "0x466ced3b33045ea986b2f306c8d0aa8067961cf8": "pendle",
+      "0x34c91651a070664279866e5f3d6b4d5f65cbbffb": "pendle",
+      "0x3942f7b55094250644cffda7160226caa349a38e": "pendle",
+      "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d": "pendle",
+      "0x2a73e899389caba2a2f648baba35e67f5c00efee": "pendle",
+      "0x998cf52b2585e05494bf9f2bf502351a9c7fda8f": "pendle",
+      "0x8a09574b0401a856d89d1b583ee22e8cb0c5530b": "pendle",
+      "0x704478dd72fd7f9b83d1f1e0fc18c14b54f034d0": "pendle",
+      "0xfd6df9efacfefdf4e610d687a9c9b941d1b1bf75": "pendle",
+      "0x539fd510fe352cc81822a222f821c340133ed41c": "pendle",
+      "0xed18de5442297a4ec1ce59c7c7d9427adc2a012b": "pendle",
+      "0x2b3ec64160f658ffe7061769415ff080fca80bba": "pendle",
+      "0x438c7dba7d355aa0c77459af38b2e62f9f9eccbf": "pendle"
     },
     "100": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
       "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
       "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
-      "0x9008d19f58aabd9ed0d60971565aa8510560ab41": "cowswap"
+      "0x9008d19f58aabd9ed0d60971565aa8510560ab41": "cowswap",
+      "0x97e839139877c7c122f962ed69563a50b717c013": "euler",
+      "0xc3688de625abe9231ca004d6de78438da5496fa9": "euler",
+      "0x4cb405c3515841c9bbfb363cd3105479e15ce5b0": "euler",
+      "0x80ff02a2b6b945d3127c21275c0d10116b737731": "euler",
+      "0xe600cacf641e9143fd5e4bb4157db9c567e908e8": "euler",
+      "0x053961ade0a97f70af6169763f5ee4c593f564f0": "euler",
+      "0xd1446cdaa29b342c04c6162023f3a645cb318736": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0xcb7c8afbe09307be5cdb668274137a92145353d7": "euler",
+      "0x1cf12927ea07aba188bab81b90ab535e49a694eb": "euler"
+    },
+    "130": {
+      "0x41a11d85577bb21743e11eca62e2b241dc1ed5c0": "euler",
+      "0xfbd12fbc91311a8f17598b935e35205eaf16aa75": "euler",
+      "0xbad8b5bdfb2bcbcd78cc9f1573d3aad6e865e752": "euler",
+      "0x71d7250732591c41d1bdeb1ea0ee730e138e0c8b": "euler",
+      "0x9efeac4498d1fa78b750307c2a918ff491a111de": "euler",
+      "0xe9878336e83d44c367fb82b85285c26fcf249c4d": "euler",
+      "0x2a1176964f5d7cae5406b627bf6166664fe83c60": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0xdcd02e4ea8cd273498d315ad8c047305f8480656": "euler",
+      "0x08799a00bc4a74890d65f77828cd2bfbbfcd96db": "euler"
     },
     "137": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
@@ -1596,7 +3533,69 @@
       "0x4e3288c9ca110bcc82bf38f09a7b425c095d92bf": "odos",
       "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
       "0x15392211222b46a0ea85a9a800830486d144848d": "magpie",
-      "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff": "quickswap"
+      "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff": "quickswap",
+      "0x357727718d2a9ce83b877f503f56ded39719dcb9": "euler",
+      "0x751ab2c287159fa2fa1a1a5a0f209c3f6e83a282": "euler",
+      "0x3f23552a0abd8e01aff5e8704e8a5671a80432b5": "euler",
+      "0x5ed27efcb2e58b0b9cd163f9ef78ba87f167b8d2": "euler",
+      "0x38e3818947a4104cab38f9b51362e991a970168d": "euler",
+      "0xab04baabf333bd9997cac0661b6ece4b88be3f39": "euler",
+      "0xa1c13f5c4929521f0bf31cbe03025cb75c214dcb": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x5ae64b596224cde56c852269e9b35ad25e22af90": "euler",
+      "0xa9b3fe66d8fdba841a4918d32e12894e5d36bc94": "euler"
+    },
+    "146": {
+      "0x31aa74232a0b0e50e5bf95780b2116710a34c7e9": "euler",
+      "0xe6e4687c35429942391afe42cddecba857531492": "euler",
+      "0xf075cc8660b51d0b8a4474e3f47edac5fa034cfb": "euler",
+      "0x11f95aaa59f1ad89576c61e3c9cd24df1fdcf46f": "euler",
+      "0xc8eb6dd027c4ab1754245f6fde91b39090c12add": "euler",
+      "0xcfe702b937687a9c9c93e794edfef435d8d8486b": "euler",
+      "0x4860c903f6ad709c3eda46d3d502943f184d4315": "euler",
+      "0xb952578f3520ee8ea45b7914994dcf4702cee578": "euler",
+      "0xc2f9fe90bd17e017898b6efdaa73c34fddde299e": "euler",
+      "0x6f417aaec1d41db692307269acda019ce5f10b0e": "euler",
+      "0x1fccc097db89a86bfc474a1028f93958295b1fb7": "pendle",
+      "0xcbcb48e22622a3778b6f14c2f5d258ba026b05e6": "pendle",
+      "0x7877adfaded756f3248a0ebfe8ac2e2ef87b75ac": "pendle",
+      "0xe6f0489ed91dc27f40f9dbe8f81fccbfc16b9cb1": "pendle",
+      "0xf1ef7d2d4c0c881cd634481e0586ed5d2871a74b": "pendle",
+      "0xb6319cc6c8c27a8f5daf0dd3df91ea35c4720dd7": "pendle",
+      "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38": "pendle",
+      "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "pendle",
+      "0x6952eb0c152d683ea2f2b8b90a5e888c1550b69d": "pendle",
+      "0x2ad631f72fb16d91c4953a7f4260a97c2fe2f31e": "pendle",
+      "0x888888888889758f76e7103c6cbf23abbf58f946": "pendle",
+      "0x663c21103915b68e9da797cfdf3cab01a037d5ff": "pendle",
+      "0xd8d200d9a713a1c71cf1e7f694b14e5f1d948b15": "pendle",
+      "0x4a03ce0a268951d04e187b1cf48075ee69266e27": "pendle",
+      "0x373dba2055ad40cb4815148bc47cd1dc16e92e44": "pendle",
+      "0x852e59252c94716f0df19b52b36512f6c9297a96": "pendle",
+      "0x7b78f36abf6cf3c6c0dd54716dfef0607ae17846": "pendle",
+      "0xded51dca2eced7a0baab3d9711a87f214769da0f": "pendle",
+      "0x0013acc071f732fd6bf8210ab46a3794a7d8945e": "pendle",
+      "0xd4e9b0d466789d7f6201442eeccba6a75a552db0": "pendle",
+      "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2": "pendle",
+      "0x73d5dbf81a4f3bfa7b335e6a2d4638d6017a4fa8": "pendle",
+      "0x000000000000c9b3e2c3ec88b1b4c0cd853f4321": "pendle",
+      "0x0582d93fd9c9d42f26be5d86a5f75291f92102c2": "pendle",
+      "0xfee31a6ec6ebefa0b5a594bf5b1139e3c6faa0fb": "pendle",
+      "0x0b692f06ca82e3075dc537224450885fd138e655": "pendle",
+      "0xa28c08f165116587d4f3e708743b4dee155c5e64": "pendle",
+      "0x2ed473f528e5b320f850d17adfe0e558f0298aa9": "pendle",
+      "0x466ced3b33045ea986b2f306c8d0aa8067961cf8": "pendle",
+      "0x3209e9412cca80b18338f2a56ada59c484c39644": "pendle",
+      "0xe017ccc08505ac8fbb5a364680e459d9fbaee74d": "pendle",
+      "0xee708fc793a02f1edd5bb9dbd7fd13010d1f7136": "pendle",
+      "0x34c91651a070664279866e5f3d6b4d5f65cbbffb": "pendle",
+      "0x3942f7b55094250644cffda7160226caa349a38e": "pendle",
+      "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d": "pendle",
+      "0x0000000000000000000000000000000000000000": "pendle",
+      "0x1ca3352a55a3d69ca8e5ab06006e08aaf2bd09f1": "pendle",
+      "0x82fae57b2a79d893d88488a7d8bdf2ac6bd2c463": "pendle",
+      "0xc23dd2807e51dd1d317e1321cbeeb9ace98531ee": "pendle",
+      "0x251cfb4e84cefeca6c1e6a4d8a0cb9c524e7484f": "pendle"
     },
     "250": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
@@ -1617,14 +3616,108 @@
       "0x4bba932e9792a2b917d47830c93a9bc79320e4f7": "odos",
       "0x38ae1164ca61ee7aa395bb139b3990e347988ce1": "magpie"
     },
+    "480": {
+      "0x98dbbe5454c7697bbcda63604a875e3db4cb525f": "euler",
+      "0x2e37490ecebc68dc9250ab2dc7729037c1638270": "euler",
+      "0xba31c9e91e909e47f2f4f174936811a1e2123b57": "euler",
+      "0x1f2a11f83e6260fe660f6c0a89baaf204a2d723c": "euler",
+      "0xeeb368ccac95171c785cfad7a099b26078b4f76c": "euler",
+      "0xa3ae917edbbc260ad23515082d41b4f120ad15f2": "euler",
+      "0x1384708ad4eed6c264c196555422956306348359": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x1a03e7b634d813efc3a8415ef0dc034026dc86b0": "euler",
+      "0x975af70e8c2b40bbe13677931c285baa941e4337": "euler"
+    },
+    "999": {
+      "0x976666e0ae74a8a4059cf1acf706891ade98c3d1": "euler",
+      "0x05d14f4edfa7cbfb90711c2ec5505bcbd49b9cd2": "euler",
+      "0xcf5552580fd364cdbbfcb5ae345f75674c59273a": "euler",
+      "0x05de079a28386135e048369cdf0bc4d326d5ebdf": "euler",
+      "0xf21dfadfc4d3da25ace489c7a95eddc5f47b809a": "euler",
+      "0xff70e197f6ae7416f143fab5c9bec30ecf55b093": "euler",
+      "0xceaa7cdcd7ddbee8601127a9abb17a974d613db4": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x43144f09896f8759de2ec6d777391b9f05a51128": "euler",
+      "0x47618e4cbdcfbf5f21d6594a7e3a4f4683719994": "euler"
+    },
     "1088": {
       "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
       "0x2b14763c27b9661182c2503f6c9c4d47ba747dd2": "magpie"
     },
+    "1923": {
+      "0xd0148ddb69f4d8182ef863d6f81ed6519d8c83a2": "euler",
+      "0x9fb7215ef6297498d6807caf9f3ac8ba3154db29": "euler",
+      "0x238bf86bb451ec3ca69bb855f91bda001ab118b9": "euler",
+      "0x70f1286239228b28a047c727c2df390045299486": "euler",
+      "0xf6c81239b4e3c71bfd156223971821438c42eabc": "euler",
+      "0xcd8e56a127b41d40a7542c8c8e77551c157108d0": "euler",
+      "0x08739cbede6e28e387685ba20e6409bd16969cde": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x6682af2820633067a1de5be99b2dcb2d38f1e241": "euler",
+      "0xc4589c6199516f96b422d91020563fe65b28918e": "euler"
+    },
+    "2818": {
+      "0x9895149f3324666d94664c159af0cd026eb53761": "euler",
+      "0x7bf00b8638d0ebe917c82b286fc07e86988f3a1c": "euler",
+      "0x1a1bdf62fe7170c652f03ff153977c26fbe7b2e1": "euler",
+      "0xc98f21e7b1f12ab225386226d022a67e65d8b0ce": "euler",
+      "0x9344a45943993938b628414d820e4a314afc8c2d": "euler",
+      "0x2c75e510548156e2c33c07c89931df04ce1a6d0b": "euler",
+      "0xc7c31b1e7cac36478c62f876f357b95d9cad9817": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x235597e32131a6681592ac276c967a5b8c89dcb3": "euler",
+      "0x433438dd80353fb1893253348b7b14f821b4ccfb": "euler"
+    },
     "5000": {
       "0x6352a56caadc4f1e25cd6c75970fa768a3304e64": "openocean",
       "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
-      "0xd9f4e85489adcd0baf0cd63b4231c6af58c26745": "odos"
+      "0xd9f4e85489adcd0baf0cd63b4231c6af58c26745": "odos",
+      "0x1fccc097db89a86bfc474a1028f93958295b1fb7": "pendle",
+      "0x5c30d3578a4d07a340650a76b9ae5df20d5bdf55": "pendle",
+      "0x9f72a06084edd040e973c32bf026b1acf65db9ab": "pendle",
+      "0xd27b18915e7acc8fd6ac75db6766a80f8d2f5729": "pendle",
+      "0xe6f0489ed91dc27f40f9dbe8f81fccbfc16b9cb1": "pendle",
+      "0xb6319cc6c8c27a8f5daf0dd3df91ea35c4720dd7": "pendle",
+      "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8": "pendle",
+      "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "pendle",
+      "0x3d622b0ac50552d6283c7efe6eadfc98ad0f6cb7": "pendle",
+      "0x2ad631f72fb16d91c4953a7f4260a97c2fe2f31e": "pendle",
+      "0x888888888889758f76e7103c6cbf23abbf58f946": "pendle",
+      "0x663c21103915b68e9da797cfdf3cab01a037d5ff": "pendle",
+      "0xd8d200d9a713a1c71cf1e7f694b14e5f1d948b15": "pendle",
+      "0x4a03ce0a268951d04e187b1cf48075ee69266e27": "pendle",
+      "0x373dba2055ad40cb4815148bc47cd1dc16e92e44": "pendle",
+      "0x852e59252c94716f0df19b52b36512f6c9297a96": "pendle",
+      "0x997fbc511a8ad11f84a400feacd66e2a3fa805d2": "pendle",
+      "0x6a0ed0a9193fcbe7ae9b0f3d90f88e365cca64fc": "pendle",
+      "0xcad502bb55d1a3f79952f969bff3f011cf30a94a": "pendle",
+      "0xd4e9b0d466789d7f6201442eeccba6a75a552db0": "pendle",
+      "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2": "pendle",
+      "0x964840644b88c583500f473e4b829ab629af96a8": "pendle",
+      "0xd228ec1f7d4313fe321fab511a872475d07f5ba6": "pendle",
+      "0x5256e5dbe627e696b2e54eb77c2227276d80cd3c": "pendle",
+      "0xca274a44a52241c1a8efb9f84bf492d8363929fc": "pendle",
+      "0x5dfbeaea9e41f85c334075482a20afb7031207ae": "pendle",
+      "0xcb02435716b0143d4ac1bdf370302d619e714126": "pendle",
+      "0x553dcdd1297058b2b2e05779fc5ec3d5225376ce": "pendle",
+      "0x6e716b682d0b63e7bf2c7b1cd20f2fc2f3596fc7": "pendle",
+      "0x000000000000c9b3e2c3ec88b1b4c0cd853f4321": "pendle",
+      "0xa28c08f165116587d4f3e708743b4dee155c5e64": "pendle",
+      "0x73d5dbf81a4f3bfa7b335e6a2d4638d6017a4fa8": "pendle",
+      "0x2ed473f528e5b320f850d17adfe0e558f0298aa9": "pendle",
+      "0x466ced3b33045ea986b2f306c8d0aa8067961cf8": "pendle",
+      "0xf799e4c029d14f41dc1918c9a4c67242f565710e": "pendle",
+      "0x30c6d4e892871220b5ab66c10db577da96fb974b": "pendle",
+      "0x428f2f93afac3f96b0de59854038c585e06165c8": "pendle",
+      "0x34c91651a070664279866e5f3d6b4d5f65cbbffb": "pendle",
+      "0x3942f7b55094250644cffda7160226caa349a38e": "pendle",
+      "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d": "pendle",
+      "0x2a73e899389caba2a2f648baba35e67f5c00efee": "pendle",
+      "0xfd6df9efacfefdf4e610d687a9c9b941d1b1bf75": "pendle",
+      "0x539fd510fe352cc81822a222f821c340133ed41c": "pendle",
+      "0xa87f7eedd570943bcffce6d00b13d9a95ede8810": "pendle",
+      "0x2b3ec64160f658ffe7061769415ff080fca80bba": "pendle",
+      "0x438c7dba7d355aa0c77459af38b2e62f9f9eccbf": "pendle"
     },
     "8217": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch"
@@ -1706,7 +3799,57 @@
       "0x6cb442acf35158d5eda88fe602221b67b400be3e": "aerodrome",
       "0xbe6d8f0d05cc4be24d5167a3ef062215be6d18a5": "aerodrome",
       "0xee717411f6e44f9fee011835c8e6faac5deff166": "aerodrome",
-      "0x0ad09a66af0154a84e86f761313d02d0abb6edd5": "aerodrome"
+      "0x0ad09a66af0154a84e86f761313d02d0abb6edd5": "aerodrome",
+      "0x9ff7ea0cf94b8665c2f5d17560bd34ab9bbacd21": "euler",
+      "0x029fdee85bedb0553d6fdc538546586641dd7438": "euler",
+      "0x7f321498a801a191a93c840750ed637149ddf8d0": "euler",
+      "0x30a9a9654804f1e5b3291a86e83eded7cf281618": "euler",
+      "0x72bbdb652f2aec9056115644efccdd1986f51f15": "euler",
+      "0x6104c0f2a7750f1b143dab49752e19da43dec34a": "euler",
+      "0x5301c7dd20bd945d2013b48ed0dee3a284ca8989": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x1d4b9e6acacdc82dd9e903c3f4431558af32c4a9": "euler",
+      "0xfe9011fd097cd35866b9e4740bbc88b4ef26e3ba": "euler",
+      "0x1fccc097db89a86bfc474a1028f93958295b1fb7": "pendle",
+      "0xcbcb48e22622a3778b6f14c2f5d258ba026b05e6": "pendle",
+      "0x7877adfaded756f3248a0ebfe8ac2e2ef87b75ac": "pendle",
+      "0xe6f0489ed91dc27f40f9dbe8f81fccbfc16b9cb1": "pendle",
+      "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e": "pendle",
+      "0xb6319cc6c8c27a8f5daf0dd3df91ea35c4720dd7": "pendle",
+      "0x4200000000000000000000000000000000000006": "pendle",
+      "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "pendle",
+      "0xf3f560164979fe7f8f3eb2b64669eac00e7043a6": "pendle",
+      "0x2ad631f72fb16d91c4953a7f4260a97c2fe2f31e": "pendle",
+      "0x888888888889758f76e7103c6cbf23abbf58f946": "pendle",
+      "0x663c21103915b68e9da797cfdf3cab01a037d5ff": "pendle",
+      "0xd8d200d9a713a1c71cf1e7f694b14e5f1d948b15": "pendle",
+      "0x4a03ce0a268951d04e187b1cf48075ee69266e27": "pendle",
+      "0x373dba2055ad40cb4815148bc47cd1dc16e92e44": "pendle",
+      "0x852e59252c94716f0df19b52b36512f6c9297a96": "pendle",
+      "0x997fbc511a8ad11f84a400feacd66e2a3fa805d2": "pendle",
+      "0x6a0ed0a9193fcbe7ae9b0f3d90f88e365cca64fc": "pendle",
+      "0xb4205a645c7e920bd8504181b1d7f2c5c955c3e7": "pendle",
+      "0xd4e9b0d466789d7f6201442eeccba6a75a552db0": "pendle",
+      "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2": "pendle",
+      "0x963ddbb35c1ae44e2a159e3b5fb5177e0b32660d": "pendle",
+      "0x59968008a703dc13e6beaeced644bdce4ee45d13": "pendle",
+      "0x8d77771fa2518474cc83a613ef3d6140a84dbe56": "pendle",
+      "0x000000000000c9b3e2c3ec88b1b4c0cd853f4321": "pendle",
+      "0xa28c08f165116587d4f3e708743b4dee155c5e64": "pendle",
+      "0x73d5dbf81a4f3bfa7b335e6a2d4638d6017a4fa8": "pendle",
+      "0x2ed473f528e5b320f850d17adfe0e558f0298aa9": "pendle",
+      "0x466ced3b33045ea986b2f306c8d0aa8067961cf8": "pendle",
+      "0x34c91651a070664279866e5f3d6b4d5f65cbbffb": "pendle",
+      "0x3942f7b55094250644cffda7160226caa349a38e": "pendle",
+      "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d": "pendle",
+      "0x2a73e899389caba2a2f648baba35e67f5c00efee": "pendle",
+      "0xee708fc793a02f1edd5bb9dbd7fd13010d1f7136": "pendle",
+      "0x051dcd6a80f11fe68f77fb0ebde03853fa96b1fd": "pendle",
+      "0x17f100fb4be2707675c6439468d38249dd993d58": "pendle",
+      "0xfd6df9efacfefdf4e610d687a9c9b941d1b1bf75": "pendle",
+      "0x539fd510fe352cc81822a222f821c340133ed41c": "pendle",
+      "0x2b3ec64160f658ffe7061769415ff080fca80bba": "pendle",
+      "0x438c7dba7d355aa0c77459af38b2e62f9f9eccbf": "pendle"
     },
     "17000": {
       "0xed7bfd5c1790576105af4649817f6d35a75cd818": "lombard"
@@ -1723,7 +3866,66 @@
       "0x0000000000001ff3684f28c67538d4d072c22734": "0x-api-v2",
       "0x34cdce58cbdc6c54f2ac808a24561d0ab18ca8be": "magpie",
       "0xff131917e1d6751e4d1b17612751db521b1403c5": "kiln",
-      "0x9008d19f58aabd9ed0d60971565aa8510560ab41": "cowswap"
+      "0x9008d19f58aabd9ed0d60971565aa8510560ab41": "cowswap",
+      "0x174834a9de4c2f0c13c7353e62c229e8d607c808": "euler",
+      "0xbcd29c1b596d9ffafaa6f90780956b4d3d47832f": "euler",
+      "0x78df1cf5bf06a7f27f2acc580b934238c1b80d50": "euler",
+      "0x832ff4011a3164ea76cea06a313ee0b6cd72ba96": "euler",
+      "0xd4500c75048a65df0e83667a546a5fb27b02aa56": "euler",
+      "0x9da3b8051b2592ca6fb10dae538d7b390e9c8376": "euler",
+      "0x6302ef0f34100cddfb5489fbcb6ee1aa95cd1066": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x06c1ab0a1672e8fc7f7d10bd7b869b4116d18a2c": "euler",
+      "0x924c73abaa350800fc22c11ffdfb09641106e3ce": "euler",
+      "0x1fccc097db89a86bfc474a1028f93958295b1fb7": "pendle",
+      "0xcbcb48e22622a3778b6f14c2f5d258ba026b05e6": "pendle",
+      "0x7877adfaded756f3248a0ebfe8ac2e2ef87b75ac": "pendle",
+      "0x3c0f8f070e6400c1c4ed10cff85de4c643b66bd3": "pendle",
+      "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8": "pendle",
+      "0x3c2269811836af69497e5f486a85d7316753cf62": "pendle",
+      "0x82af49447d8a07e3bd95bd0d56f35241523fbab1": "pendle",
+      "0x7f6a486bbfab887e24df2b10eef4e2ac9e34dd46": "pendle",
+      "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "pendle",
+      "0x29deaee5413a07c933c15b37d7deb6eb744ba9c8": "pendle",
+      "0x2ad631f72fb16d91c4953a7f4260a97c2fe2f31e": "pendle",
+      "0x28de02ac3c3f5ef427e55c321f73fdc7f192e8e4": "pendle",
+      "0xf5a7de2d276dbda3eef1b62a9e718eff4d29ddc8": "pendle",
+      "0x888888888889758f76e7103c6cbf23abbf58f946": "pendle",
+      "0x663c21103915b68e9da797cfdf3cab01a037d5ff": "pendle",
+      "0xd8d200d9a713a1c71cf1e7f694b14e5f1d948b15": "pendle",
+      "0x4a03ce0a268951d04e187b1cf48075ee69266e27": "pendle",
+      "0x373dba2055ad40cb4815148bc47cd1dc16e92e44": "pendle",
+      "0x852e59252c94716f0df19b52b36512f6c9297a96": "pendle",
+      "0x997fbc511a8ad11f84a400feacd66e2a3fa805d2": "pendle",
+      "0x6a0ed0a9193fcbe7ae9b0f3d90f88e365cca64fc": "pendle",
+      "0xadb09f65bd90d19e3148d9ccb693f3161c6db3e8": "pendle",
+      "0xd4e9b0d466789d7f6201442eeccba6a75a552db0": "pendle",
+      "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2": "pendle",
+      "0xeb38531db128eca928aea1b1ce9e5609b15ba146": "pendle",
+      "0x2fcb47b58350cd377f94d3821e7373df60bd9ced": "pendle",
+      "0xc7f8f9f1dde1104664b6fc8f33e49b169c12f41e": "pendle",
+      "0xd9f5e9589016da862d2abce980a5a5b99a94f3e8": "pendle",
+      "0xff29e023910fb9bfc86729c1050af193a45a0c0c": "pendle",
+      "0xd29e76c6f15ada0150d10a1d3f45accd2098283b": "pendle",
+      "0xee2ef4adaf5bd61fd107fd169cae3ab79958b928": "pendle",
+      "0x000000000000c9b3e2c3ec88b1b4c0cd853f4321": "pendle",
+      "0xa28c08f165116587d4f3e708743b4dee155c5e64": "pendle",
+      "0x73d5dbf81a4f3bfa7b335e6a2d4638d6017a4fa8": "pendle",
+      "0x3942f7b55094250644cffda7160226caa349a38e": "pendle",
+      "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d": "pendle",
+      "0x2ed473f528e5b320f850d17adfe0e558f0298aa9": "pendle",
+      "0x466ced3b33045ea986b2f306c8d0aa8067961cf8": "pendle",
+      "0x34c91651a070664279866e5f3d6b4d5f65cbbffb": "pendle",
+      "0x2a73e899389caba2a2f648baba35e67f5c00efee": "pendle",
+      "0xc9215ae9ec67385f38c755d862c8ee3702b5793a": "pendle",
+      "0x3209e9412cca80b18338f2a56ada59c484c39644": "pendle",
+      "0x1e56299ebc8a1010cec26005d12e3e5c5cc2db00": "pendle",
+      "0x23a102e78d1ff1645a3666691495174764a5fcaf": "pendle",
+      "0xfd6df9efacfefdf4e610d687a9c9b941d1b1bf75": "pendle",
+      "0x539fd510fe352cc81822a222f821c340133ed41c": "pendle",
+      "0x704478dd72fd7f9b83d1f1e0fc18c14b54f034d0": "pendle",
+      "0x2b3ec64160f658ffe7061769415ff080fca80bba": "pendle",
+      "0x438c7dba7d355aa0c77459af38b2e62f9f9eccbf": "pendle"
     },
     "43114": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
@@ -1734,13 +3936,121 @@
       "0x6a000f20005980200259b80c5102003040001068": "paraswap-v6",
       "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc": "odos",
       "0x0000000000005e88410ccdfade4a5efae4b49562": "0x-api-v2",
-      "0xf25075d95b5945bcff394588db3df8b1cacfccf6": "magpie"
+      "0xf25075d95b5945bcff394588db3df8b1cacfccf6": "magpie",
+      "0xf1a5f97ab84158cf6d8ba8def68780fc2fd64310": "euler",
+      "0xaf5659428fef1f6a701fab46d8f3af8371a9913d": "euler",
+      "0xaf4b4c18b17f6a2b32f6c398a3910bdcd7f26181": "euler",
+      "0x29e9b639e165d919fecf02521f8a9da0492d4f21": "euler",
+      "0xe5a94ae6178cfd65856b19a4eb8dd61d85c63e11": "euler",
+      "0x789d447cf07a703a1a1326b6b4ca84693d29a4dd": "euler",
+      "0xddcbe30a761edd2e19bba930a977475265f36fa1": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x8564160f30926ea1229dccf24118c6de155d2e30": "euler",
+      "0x9c38f923bac407c818312eadef69adc116fd16fd": "euler"
+    },
+    "57073": {
+      "0x89504f5d5f4fb646d283417788b1e783912bbdf9": "euler",
+      "0x7a49f3b99d5737c1d3dcf9f278a8568ed4092416": "euler",
+      "0xd17587b7da4383be4b64bd2d0c87119a17ee5130": "euler",
+      "0x927dbf538b7a02491268e53748546730706a0fdc": "euler",
+      "0x855a399be9d3d7afed44346bde35fd2c8d910668": "euler",
+      "0x8360b4d341e4459ae77b98f70a4757fcf51e4431": "euler",
+      "0x59b8dfbcd3f004e7287ea021a67d54763feaee0c": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x41fa2486c164840b49663d422eb7e1ee19c4fb23": "euler",
+      "0x4790c32228a704b635d7c50f91cefd3a0f77e721": "euler"
     },
     "59144": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",
       "0x6131b5fae19ea4f9d964eac0408e4408b66337b5": "kyberswap",
       "0x2d8879046f1559e53eb052e949e9544bcb72f414": "odos",
-      "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104": "magpie"
+      "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104": "magpie",
+      "0xd048d4e39e13482ecce115e7bb71128d26ca19f1": "euler",
+      "0xb9e491a3bb9d4b155d31a9ca6b9de245ca16aae6": "euler",
+      "0x84711986fd3bf0bfe4a8e6d7f4e22e67f7f27f04": "euler",
+      "0x58270c41552bb2bef3dc4e103b6f0c226032f007": "euler",
+      "0xdea64243b460c8d9164d53c47a9f5c4a7ced85df": "euler",
+      "0xe798737ed343c0016c414b24fb808f43a3549122": "euler",
+      "0xd8cecee9a04ea3d941a959f68fb4486f23271d09": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x91868601df03ed8e134eaaab5e06f7183cc8383f": "euler",
+      "0xcb1bb0a8a7ddeb09983dc1e7f880dcedc39362ba": "euler"
+    },
+    "60808": {
+      "0x797964f9eb3a733d443810820f56c9ebaab1d1c2": "euler",
+      "0x5a3828bea292e5f29725fa449f9113cb5e60adf8": "euler",
+      "0x046a9837a61d6b6263f54f4e27ee072ba4bdc7e4": "euler",
+      "0x32cfc56917c0025501b34c43f7fe767ef1ede3a2": "euler",
+      "0x118feebfbafc7106ae79dd4d6d2661df4d031b1e": "euler",
+      "0x2d72821b5c46718a728bc2ed9d346cf11a91638c": "euler",
+      "0x59f0feec4fa474ad4ffc357cc8d8595b68abe47d": "euler",
+      "0xcbe9be2c87b24b063a21369b6ab0aa9f149c598f": "euler",
+      "0x94047c7daf06a6de4049365cfa95fb4389a6f9fe": "euler",
+      "0xf4c097718c64b6b0a75cd9e0ef348fd6f176be67": "euler"
+    },
+    "80094": {
+      "0xc1d31b2812cc920341349a717d14badfb1bcab11": "euler",
+      "0x70fb24bda46e7cfd447c64bb32180bc746ba3a71": "euler",
+      "0x5c13fb43ae9bae8470f646ea647784534e9543af": "euler",
+      "0x402598ac4034d24f2cb37bdb0721a67365ad19bd": "euler",
+      "0xdf380dc486a72984fbcbf224dc4e21599485d1b1": "euler",
+      "0xb053a4fb7d9c86e9135f581231d98aba0a940d29": "euler",
+      "0x45334608ece7b2775136bc847eb92b5d332806a9": "euler",
+      "0x000000000022d473030f116ddee9f6b43ac78ba3": "euler",
+      "0x51432af61a715db3d0f20a3691c1e25f9a2c6b05": "euler",
+      "0x0c9a75e05764775a0cf52bc6cbfe6cb229bb3901": "euler",
+      "0x1fccc097db89a86bfc474a1028f93958295b1fb7": "pendle",
+      "0xcbcb48e22622a3778b6f14c2f5d258ba026b05e6": "pendle",
+      "0x7877adfaded756f3248a0ebfe8ac2e2ef87b75ac": "pendle",
+      "0xe6f0489ed91dc27f40f9dbe8f81fccbfc16b9cb1": "pendle",
+      "0xff9c599d51c407a45d631c6e89cb047efb88aef6": "pendle",
+      "0xb6319cc6c8c27a8f5daf0dd3df91ea35c4720dd7": "pendle",
+      "0x6969696969696969696969696969696969696969": "pendle",
+      "0xeea6f790f18563e91b18df00b89d9f79b2e6761f": "pendle",
+      "0x4d717868f4bd14ac8b29bb6361901e30ae05e340": "pendle",
+      "0x2ad631f72fb16d91c4953a7f4260a97c2fe2f31e": "pendle",
+      "0x888888888889758f76e7103c6cbf23abbf58f946": "pendle",
+      "0x663c21103915b68e9da797cfdf3cab01a037d5ff": "pendle",
+      "0xd8d200d9a713a1c71cf1e7f694b14e5f1d948b15": "pendle",
+      "0x4a03ce0a268951d04e187b1cf48075ee69266e27": "pendle",
+      "0x373dba2055ad40cb4815148bc47cd1dc16e92e44": "pendle",
+      "0x852e59252c94716f0df19b52b36512f6c9297a96": "pendle",
+      "0x7b78f36abf6cf3c6c0dd54716dfef0607ae17846": "pendle",
+      "0xded51dca2eced7a0baab3d9711a87f214769da0f": "pendle",
+      "0x6813d43782395a1f2aab42f39aeede03ac655e09": "pendle",
+      "0xd4e9b0d466789d7f6201442eeccba6a75a552db0": "pendle",
+      "0x9a9fa8338dd5e5b2188006f1cd2ef26d921650c2": "pendle",
+      "0x2bea6bfd8fbff45aa2a893eb3b6d85d10efcc70e": "pendle",
+      "0x8a09574b0401a856d89d1b583ee22e8cb0c5530b": "pendle",
+      "0x96f77f24b3d17166fcaf3a9e3b8330ff38b966f9": "pendle",
+      "0x000000000000c9b3e2c3ec88b1b4c0cd853f4321": "pendle",
+      "0xa28c08f165116587d4f3e708743b4dee155c5e64": "pendle",
+      "0x73d5dbf81a4f3bfa7b335e6a2d4638d6017a4fa8": "pendle",
+      "0x2ed473f528e5b320f850d17adfe0e558f0298aa9": "pendle",
+      "0x466ced3b33045ea986b2f306c8d0aa8067961cf8": "pendle",
+      "0x34c91651a070664279866e5f3d6b4d5f65cbbffb": "pendle",
+      "0x3942f7b55094250644cffda7160226caa349a38e": "pendle",
+      "0xae898a7d07f8e27f25e13d0f351a7401f9a5bf9d": "pendle",
+      "0x0000000000000000000000000000000000000000": "pendle",
+      "0xd5c47d2383fddc19596489280c0a33ac42b2bb18": "pendle",
+      "0x6875e4a945e498fe1b90bbb13cfbaf0b68658c9c": "pendle",
+      "0x704478dd72fd7f9b83d1f1e0fc18c14b54f034d0": "pendle",
+      "0x1ca3352a55a3d69ca8e5ab06006e08aaf2bd09f1": "pendle",
+      "0x82fae57b2a79d893d88488a7d8bdf2ac6bd2c463": "pendle",
+      "0xc23dd2807e51dd1d317e1321cbeeb9ace98531ee": "pendle",
+      "0x251cfb4e84cefeca6c1e6a4d8a0cb9c524e7484f": "pendle"
+    },
+    "21000000": {
+      "0x22c6e10e0742c76dab31c3389879950473f175cd": "euler",
+      "0x56bdbb0263eaa299bed51b64dab2031cd08e3dee": "euler",
+      "0xd1223135f3ba555f8381027d4307a6012ea488af": "euler",
+      "0x3a20e044b2fce60a9303953cb4a66cae48e3f044": "euler",
+      "0xee32de022257ecc34815c8c1f1a1d1c00a356159": "euler",
+      "0x32f09aa71e63d0f8517fde032a2f0abdb56b5c1f": "euler",
+      "0x5a6d717c7f407a47175dab887ede56f516d64faf": "euler",
+      "0xb952578f3520ee8ea45b7914994dcf4702cee578": "euler",
+      "0x91ed7190ffba0b6fcc002a72d74a76bc08f9f6c9": "euler",
+      "0x945114b1c7dbe1f226dcbb4f88864e0c00372b44": "euler"
     },
     "1313161554": {
       "0x111111125421ca6dc452d289314280a0f8842a65": "1inch",

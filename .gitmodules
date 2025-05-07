@@ -1,3 +1,9 @@
 [submodule "clear-signing-erc7730-registry"]
-	path = clear-signing-erc7730-registry
+	path = data_sources/clear-signing-erc7730-registry
 	url = https://github.com/LedgerHQ/clear-signing-erc7730-registry
+[submodule "euler-interfaces"]
+	path = data_sources/euler-interfaces
+	url = https://github.com/euler-xyz/euler-interfaces
+[submodule "data_sources/pendle-core-v2-public"]
+	path = data_sources/pendle-core-v2-public
+	url = https://github.com/pendle-finance/pendle-core-v2-public

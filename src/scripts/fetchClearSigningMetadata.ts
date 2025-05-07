@@ -4,11 +4,11 @@ import { Protocol } from "../types";
 
 // Path constants
 const DATA_DIR = path.join(__dirname, "../../data");
+const OUTPUT_FILE = path.join(DATA_DIR, "clear-signing-protocols.json");
 const REGISTRY_DIR = path.join(
   __dirname,
-  "../../clear-signing-erc7730-registry/registry"
+  "../../data_sources/clear-signing-erc7730-registry/registry"
 );
-const OUTPUT_FILE = path.join(DATA_DIR, "clear-signing-protocols.json");
 
 /**
  * Extract contract addresses from ERC-7730 metadata files

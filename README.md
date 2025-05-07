@@ -10,7 +10,10 @@ src/
 ├── utils/        # Utility functions
 └── scripts/      # Scripts for protocol parsing and registry building
 data/             # Generated protocols data
-clear-signing-erc7730-registry/ # ERC-7730 metadata registry submodule
+data_sources/
+├── clear-signing-erc7730-registry/  # ERC-7730 metadata registry submodule
+├── euler-interfaces/                # Euler interfaces submodule
+└── pendle-core-v2-public/           # Pendle core contracts submodule
 ```
 
 ## Usage
@@ -26,9 +29,12 @@ This repository can be used to:
 The repository uses a simplified approach:
 
 1. Fetches contract addresses from the Rabby Swap repository (`fetchContracts.ts`)
-2. Constructs a registry mapping contracts to protocols (`buildRegistry.ts`)
-3. Provides utility functions for looking up protocols by address
-4. Integrates with ERC-7730 registry for clear signing metadata
+2. Extracts contract information from the ERC-7730 Clear Signing Metadata Registry (`fetchClearSigningMetadata.ts`)
+3. Parses Euler protocol contracts from the Euler interfaces (`fetchEulerContracts.ts`)
+4. Extracts Pendle protocol contracts from deployment files (`fetchPendleContracts.ts`)
+5. Adds hardcoded protocols for specific DeFi projects (`addHardcodedProtocols.ts`)
+6. Constructs a registry mapping contracts to protocols (`buildRegistry.ts`)
+7. Provides utility functions for looking up protocols by address
 
 ## Development
 
@@ -54,6 +60,10 @@ npm run dev
 
 # Individual steps
 npm run fetch         # Fetch protocol contracts from Rabby
+npm run fetch:clear-signing  # Fetch contracts from ERC-7730 registry
+npm run fetch:euler   # Parse Euler protocol contracts
+npm run fetch:pendle  # Extract Pendle protocol contracts
+npm run add:hardcoded # Add hardcoded protocol data
 npm run build-registry  # Build the protocol registry with address maps
 
 # Build the project
@@ -106,27 +116,37 @@ This repository currently includes contract addresses for the following protocol
 - Cowswap
 - Degate
 - Ethena
+- Euler
 - Kiln
 - Lens
 - Lido
 - Lombard
 - KyberSwap
 - Magpie
-- MarkerDAO
+- MakerDAO
 - Morpho
 - ODOS
+- OpenOcean
 - OpenSea
 - ParaSwap
+- Pendle
 - Quickswap
-- Uniswap
-- OpenOcean
 - Sky
+- Spark
+- Uniswap
 
 
 ## Data Sources
 
 ### Contract Addresses
-This repository uses contract addresses from [Rabby Swap](https://github.com/RabbyHub/rabby-swap), focusing on DEX protocols and aggregators across multiple chains.
+This repository uses contract addresses from several sources:
 
-### Clear Signing Metadata
-For clear signing support, we use the [ERC-7730 Clear Signing Metadata Registry](https://github.com/LedgerHQ/clear-signing-erc7730-registry), which provides human-readable metadata for smart contract interactions.
+1. **Rabby Swap**: Contract addresses from [Rabby Swap](https://github.com/RabbyHub/rabby-swap), focusing on DEX protocols and aggregators across multiple chains.
+
+2. **ERC-7730 Clear Signing Metadata**: Human-readable metadata for smart contract interactions from the [ERC-7730 Clear Signing Metadata Registry](https://github.com/LedgerHQ/clear-signing-erc7730-registry).
+
+3. **Euler Interfaces**: Contract addresses from the [Euler Protocol Interfaces](https://github.com/euler-xyz/euler-interfaces) repository.
+
+4. **Pendle Core**: Contract addresses from the [Pendle Core V2](https://github.com/pendle-finance/pendle-core-v2-public) repository deployment files.
+
+5. **Hardcoded Protocols**: Additional contract addresses for specific protocols that are maintained directly in this repository.

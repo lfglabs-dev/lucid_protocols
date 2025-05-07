@@ -14,7 +14,9 @@
     "build:clear-signing-registry": "ts-node src/scripts/buildClearSigningRegistry.ts",
     "clear-signing": "npm run fetch:clear-signing && npm run build:clear-signing-registry",
     "clean": "rm -rf dist",
-    "add:hardcoded": "ts-node src/scripts/addHardcodedProtocols.ts"
+    "add:hardcoded": "ts-node src/scripts/addHardcodedProtocols.ts",
+    "fetch:euler": "ts-node src/scripts/fetchEulerContracts.ts",
+    "fetch:pendle": "ts-node src/scripts/fetchPendleContracts.ts"
   },
   "keywords": [
     "defi",

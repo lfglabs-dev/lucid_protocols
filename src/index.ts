@@ -3,6 +3,8 @@ import { buildRegistry } from "./scripts/buildRegistry";
 import { createClearSigningProtocols } from "./scripts/fetchClearSigningMetadata";
 import { buildClearSigningRegistry } from "./scripts/buildClearSigningRegistry";
 import { addHardcodedProtocols } from "./scripts/addHardcodedProtocols";
+import { fetchEulerContracts } from "./scripts/fetchEulerContracts";
+import { fetchPendleContracts } from "./scripts/fetchPendleContracts";
 import { Protocol, ProtocolsRegistry } from "./types";
 
 /**
@@ -26,8 +28,16 @@ export async function main() {
     console.log("\n4. Building Clear Signing registry...");
     await buildClearSigningRegistry();
 
-    // Step 3: Add hardcoded protocols
-    console.log("\n5. Adding hardcoded protocols...");
+    // Step 3: Fetch Euler contracts
+    console.log("\n5. Fetching Euler contracts...");
+    await fetchEulerContracts();
+
+    // Step 4: Fetch Pendle contracts
+    console.log("\n6. Fetching Pendle contracts...");
+    await fetchPendleContracts();
+
+    // Step 5: Add hardcoded protocols
+    console.log("\n7. Adding hardcoded protocols...");
     await addHardcodedProtocols();
 
     console.log("\n=== Workflow completed successfully ===");
