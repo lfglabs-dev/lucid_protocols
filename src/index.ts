@@ -1,21 +1,44 @@
 import { createProtocols } from "./scripts/fetchContracts";
 import { buildRegistry } from "./scripts/buildRegistry";
+import { createClearSigningProtocols } from "./scripts/fetchClearSigningMetadata";
+import { buildClearSigningRegistry } from "./scripts/buildClearSigningRegistry";
+import { addHardcodedProtocols } from "./scripts/addHardcodedProtocols";
+import { fetchEulerContracts } from "./scripts/fetchEulerContracts";
+import { fetchPendleContracts } from "./scripts/fetchPendleContracts";
 import { Protocol, ProtocolsRegistry } from "./types";
 
 /**
- * Main function to run the complete workflow - Rabby only
+ * Main function to run the complete workflow
  */
 export async function main() {
-  console.log("=== Starting Rabby protocols workflow ===");
+  console.log("=== Starting protocols workflow ===");
 
   try {
-    // Step 1: Fetch protocols
-    console.log("\n1. Fetching protocols...");
+    // Step 1: Fetch and build Rabby protocols
+    console.log("\n1. Fetching Rabby protocols...");
     await createProtocols();
 
-    // Step 2: Build registry
-    console.log("\n2. Building registry...");
+    console.log("\n2. Building Rabby registry...");
     await buildRegistry();
+
+    // Step 2: Fetch and build Clear Signing protocols
+    console.log("\n3. Fetching Clear Signing metadata...");
+    await createClearSigningProtocols();
+
+    console.log("\n4. Building Clear Signing registry...");
+    await buildClearSigningRegistry();
+
+    // Step 3: Fetch Euler contracts
+    console.log("\n5. Fetching Euler contracts...");
+    await fetchEulerContracts();
+
+    // Step 4: Fetch Pendle contracts
+    console.log("\n6. Fetching Pendle contracts...");
+    await fetchPendleContracts();
+
+    // Step 5: Add hardcoded protocols
+    console.log("\n7. Adding hardcoded protocols...");
+    await addHardcodedProtocols();
 
     console.log("\n=== Workflow completed successfully ===");
   } catch (error) {
